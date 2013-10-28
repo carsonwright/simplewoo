@@ -1,0 +1,10 @@
+{
+  "_links": {
+    "http://woofound.com/rels/sliders": {
+      "href": "https://core.woofound.com/sliders"
+    },
+    "http://woofound.com/rels/user-registration": {
+      "href": "https://core.woofound.com/users"
+    }
+  }
+}
