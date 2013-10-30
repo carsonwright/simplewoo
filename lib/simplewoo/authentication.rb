@@ -1,14 +1,12 @@
 # lib/simplewoo/authentication.rb
-
 module Simplewoo
   module Authentication
-    def authenticate(options = {})
-      self.api_token = options.delete(:api_token)
-      if self.api_token
-        connection.basic("", self.api_token)
-      else
-        connection.basic_auth(self.email, options.delete(:password))
-      end
+    def basic_authenticated?
+      !!(self.email && self.password)
+    end
+
+    def token_authenticated?
+      !!(self.api_token)
     end
   end
 end

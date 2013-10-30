@@ -1,8 +1,6 @@
 module Simplewoo
   class Client
     module User
-      # .create_user
-      #
       # Create a user on the core api 
       #
       # @param [String] email - the email of the user
@@ -27,10 +25,11 @@ module Simplewoo
       def create_user(email, password, password_confirmation, birthday, first_name, last_name, options = {})
         options.merge!({
           :email                 => email,
-          :password              =>  password,
-          :password_confirmation =>  password_confirmation,
-          :first_name            =>  first_name,
-          :last_name             =>  last_name,
+          :password              => password,
+          :password_confirmation => password_confirmation,
+          :birthday              => birthday,
+          :first_name            => first_name,
+          :last_name             => last_name,
         })
 
         post("/users", { :user => options })

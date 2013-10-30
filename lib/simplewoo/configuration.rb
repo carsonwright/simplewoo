@@ -8,10 +8,9 @@ module Simplewoo
       :api_endpoint,
       :trusted,
       :ssl,
-      :redis,
       :email,
-      :api_token,
-      :password
+      :password,
+      :api_token
     ]
 
     attr_accessor(*VALID_OPTIONS_KEYS)

@@ -11,12 +11,15 @@ describe Simplewoo::Client do
     end
   end
 
+  let(:email) { "user@example.com" }
+  let(:password) { "password" }
+
   context "with authentication" do
-    let(:client) { Simplewoo::Client.new(:email => "user@example.com", :password => "somepassword") }
+    let(:client) { Simplewoo::Client.new(:email => email, :password => password) }
 
     describe ".root" do
       it "returns the HAL links to the api" do
-        stub_woo(:get, "/", "root")
+        stub_woo(:get, "/", 200, nil, "#{email}:#{password}@", "root")
 
         expect(client.root).to respond_to(:_links)
       end
@@ -33,9 +36,5 @@ describe Simplewoo::Client do
         expect(client.root).to respond_to(:_links)
       end
     end
-  end
-
-  context "with invalid Woofound-App-Secret" do
-    it "raises a AppSecretInvalid error"
   end
 end

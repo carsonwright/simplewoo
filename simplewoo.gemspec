@@ -26,9 +26,12 @@ Gem::Specification.new do |spec|
     spec.add_development_dependency "bundler", "~> 1.3"
     spec.add_development_dependency "rake", "~> 10.1.0"
     spec.add_development_dependency "rspec", "~> 2.14.0"
+    spec.add_development_dependency "pry"
+    spec.add_development_dependency "binding_of_caller"
     spec.add_development_dependency "webmock", "~> 1.13.0"
     spec.add_development_dependency "simplecov", "~> 0.7.0"
     spec.add_development_dependency "coveralls", "~> 0.7.0"
     spec.add_development_dependency "yard", "~> 0.8.0.0"
     spec.add_development_dependency "redcarpet", "~> 3.0.0"
 end
+

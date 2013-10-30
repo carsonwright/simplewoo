@@ -16,11 +16,11 @@ describe Simplewoo::Client do
 
     describe ".create_user" do
       before(:each) do
-        stub_woo(:post, "/users?user%5Bemail%5D=jason@example.com&user%5Bfirst_name%5D=Truluck&user%5Blast_name%5D%5Bbio%5D=Some%20awesome%20bio.&user%5Blast_name%5D%5Bbirthday%5D=1988-01-01&user%5Bpassword%5D=password&user%5Bpassword_confirmation%5D=password", "user")
+        stub_woo(:post, "/users?user%5Bbirthday%5D=Jason&user%5Bemail%5D=jason@example.com&user%5Bfirst_name%5D=Truluck&user%5Blast_name%5D%5Bbio%5D=Some%20awesome%20bio.&user%5Blast_name%5D%5Bbirthday%5D=1988-01-01&user%5Bpassword%5D=password&user%5Bpassword_confirmation%5D=password", "user")
       end
 
       let(:response) {
-        client.create_user("jason@example.com", "password", "password", "Jason", "Truluck", { :bio      => "Some awesome bio.",:birthday => "1988-01-01"})
+        client.create_user("jason@example.com", "password", "password", "Jason", "Truluck", { :bio => "Some awesome bio.", :birthday => "1988-01-01"})
       }
 
       it "returns the users email" do
