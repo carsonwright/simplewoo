@@ -1,8 +1,6 @@
 module Simplewoo
   class Client
     module User
-      # .create_user
-      #
       # Create a user on the core api 
       #
       # @param [String] email - the email of the user
@@ -27,13 +25,31 @@ module Simplewoo
       def create_user(email, password, password_confirmation, birthday, first_name, last_name, options = {})
         options.merge!({
           :email                 => email,
-          :password              =>  password,
-          :password_confirmation =>  password_confirmation,
-          :first_name            =>  first_name,
-          :last_name             =>  last_name,
+          :password              => password,
+          :password_confirmation => password_confirmation,
+          :birthday              => birthday,
+          :first_name            => first_name,
+          :last_name             => last_name,
         })
 
-        post("/users", { :user => options })
+        result = post("/users", { :user => options })
+        # TODO we should really make this core method return an api_token as well and use that instead
+        authenticate({:email => email, :password => password })
+        result
+      end
+
+      # Returns the currently authenticated user
+      # 
+      # @note This method requires an authenticated user via email + password or api_token
+      # 
+      # @example Return the user
+      #  Simplewoo.me
+      def me 
+        if authenticated?
+          get("/users/me")
+        else
+          raise "No authorized user."
+        end
       end
     end
   end

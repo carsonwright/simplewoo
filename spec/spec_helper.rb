@@ -27,9 +27,10 @@ RSpec.configure do |config|
   config.order                                           = "random"
 end
 
-def stub_woo(http_method = :any, endpoint = "/", status = 200, content_type = "application/json", response)
-  stub_request(http_method, "https://api.woofound.com#{endpoint}").
+def stub_woo(http_method = :any, endpoint = "/", status = 200, auth = nil, response)
+  url = "https://#{auth}api.woofound.com#{endpoint}"
+  stub_request(http_method, url).
   to_return(:status => status, 
             :body => File.read(File.expand_path("../support/mocks/#{response}.json", __FILE__)),
-            :headers =>{'Accept' => content_type, 'Content-type' => content_type})
+            :headers =>{'Accept' => "application/json", 'Content-type' => "application/json"})
 end
