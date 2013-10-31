@@ -1,0 +1,16 @@
+{
+	"email" : "jasonexample@example.com",
+	"first_name" : "Jason",
+	"last_name" : "Truluck",
+	"bio" : "",
+	"image" : 
+	{"url" : 
+	"https://s3.amazonaws.com/woofound/images/static/default/default.png"},
+	"badge" : 
+	{"url" : 
+	"https://s3.amazonaws.com/woofound/images/static/default/default.png"},
+	"_links" : {"self" : {"href" : "https://core.woofound.com/users/me"}},
+	"birthday" : "2000-01-04",
+	"uuid" : "123456",
+	"access_token" : "acce$$token"
+}
