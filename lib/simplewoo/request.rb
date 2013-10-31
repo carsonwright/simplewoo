@@ -2,20 +2,19 @@
 module Simplewoo
   module Request
     def get(path, options = {})
-      response = request(:get, path, options)
-      response.body
+      request(:get, path, options)
     end
 
     def post(path, options = {})
-      request(:post, path, options).body
+      request(:post, path, options)
     end
 
     def put(path, options={})
-      request(:put, path, options).body
+      request(:put, path, options)
     end
 
     def delete(path, options={})
-      request(:delete, path, options).body
+      request(:delete, path, options)
     end
 
     private
@@ -43,7 +42,7 @@ module Simplewoo
         end
       end
 
-      response
+      response.body
     end
   end
 end
