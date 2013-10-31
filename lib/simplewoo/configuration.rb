@@ -8,10 +8,10 @@ module Simplewoo
       :api_endpoint,
       :trusted,
       :ssl,
-      :redis,
       :email,
+      :password,
       :api_token,
-      :password
+      :debug
     ]
 
     attr_accessor(*VALID_OPTIONS_KEYS)
@@ -28,6 +28,7 @@ module Simplewoo
       VALID_OPTIONS_KEYS.each {|key| class_eval(%Q{key = nil}) }
       self.trusted = "false"
       self.ssl = true
+      self.debug = false
     end
   end
 end
