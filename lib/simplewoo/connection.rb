@@ -22,6 +22,8 @@ module Simplewoo
         faraday.response :logger if self.debug 
         faraday.adapter Faraday.default_adapter
       end
+
+      connection
     end
 
     private

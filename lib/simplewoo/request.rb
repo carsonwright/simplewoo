@@ -2,11 +2,11 @@
 module Simplewoo
   module Request
     def get(path, options = {})
-      request(:get, path, options)
+      request(:get, path, options).body
     end
 
     def post(path, options = {})
-      request(:post, path, options)
+      request(:post, path, options).body
     end
 
     def put(path, options={})
@@ -42,7 +42,7 @@ module Simplewoo
         end
       end
 
-      response.body
+      response
     end
   end
 end

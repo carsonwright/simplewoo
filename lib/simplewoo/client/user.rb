@@ -34,7 +34,6 @@ module Simplewoo
 
         result = post("/users", { :user => options })
         # TODO we should really make this core method return an api_token as well and use that instead
-        binding.pry
         authenticate({:email => email, :password => password })
         result
       end
