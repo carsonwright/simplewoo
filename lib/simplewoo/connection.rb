@@ -16,10 +16,10 @@ module Simplewoo
         end
         faraday.use AppSecretMiddleware, app_secret: self.app_secret
         faraday.use TrustedAppMiddleware, trusted: self.trusted
+        faraday.response :logger if self.debug
         faraday.use ErrorMiddleware
         faraday.response :mashify
         faraday.response :json, :content_type => /\bjson$/
-        faraday.response :logger if self.debug 
         faraday.adapter Faraday.default_adapter
       end
 
@@ -30,7 +30,7 @@ module Simplewoo
     # Middleware for inserting the app secret header into requests
     class AppSecretMiddleware < Faraday::Middleware
       def initialize(app, options = {})
-        @app = app 
+        @app = app
         @options = options
       end
 
@@ -42,19 +42,19 @@ module Simplewoo
     # Middleware for inserting the trusted header into requests
     class TrustedAppMiddleware < Faraday::Middleware
       def initialize(app, options = {})
-        @app = app 
+        @app = app
         @options = options
       end
 
       def call(env)
-        env[:request_headers]["Woofound-Use-Trusted"] = @options[:trusted]
+        env[:request_headers]["Woofound-Use-Trusted"] = @options[:trusted].to_s
         @app.call(env)
       end
     end
     # Middleware for responding to Errors returned from the api
     class ErrorMiddleware < Faraday::Middleware
       def initialize(app)
-        @app = app 
+        @app = app
       end
 
       def call(env)
