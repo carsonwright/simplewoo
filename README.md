@@ -18,6 +18,46 @@ Or install it yourself as:
 
 ## Usage
 
+### Configuration
+
+	Simplewoo.configure do |client|
+	    client.app_secret = "app_secret"
+	    client.api_server_host = "api.woofound.com"
+	    client.ssl = true
+	end
+
+### Users
+
+#### Creating a User
+
+    client.create_user("email@example.com", 
+                       "password", 
+                       "password", 
+                       "first_name", 
+                       "last_name", { 
+                            :bio => "Some awesome bio.", 
+                            :birthday => "1988-01-01"
+                        })
+
+#### Updating a User
+    client.update_user({
+    					:email => "new_email@example.com", 
+    					:password => "new_password", 
+    					:password_confirmation => "new_password", 
+    					"first_name", "last_name", {
+    						:bio => "Some awesome bio.", 
+    						:birthday => "1988-01-01"
+    					})
+
+#### Authenticating a User 
+    client.email = "email@example.com"
+    client.password = "password"
+    client.authenticate
+
+### Getting Sliders
+
+client.sliders
+
 TODO: Write usage instructions here
 
 ## Contributing
