@@ -2,11 +2,11 @@
 module Simplewoo
   module Request
     def get(path, options = {})
-      request(:get, path, options).body
+      request(:get, path, options)
     end
 
     def post(path, options = {})
-      request(:post, path, options).body
+      request(:post, path, options)
     end
 
     def put(path, options={})
@@ -15,6 +15,10 @@ module Simplewoo
 
     def delete(path, options={})
       request(:delete, path, options)
+    end
+
+    def last_response
+      @last_response
     end
 
     private
@@ -42,7 +46,8 @@ module Simplewoo
         end
       end
 
-      response
+      @last_response = response
+      response.body
     end
   end
 end
