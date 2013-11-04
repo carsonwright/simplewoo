@@ -1,6 +1,6 @@
 # Simplewoo
 
-TODO: Write a gem description
+This is a API wrapper in Ruby for the Woofound Core API. [Woofound](https://woofound.com) is a personality matching and personalization engine. If you are interested in trying the API (currently in early beta stages) email support@woofound.com.
 
 ## Installation
 
