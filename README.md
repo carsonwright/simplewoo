@@ -58,7 +58,6 @@ Or install it yourself as:
 
 client.sliders
 
-TODO: Write usage instructions here
 
 ## Contributing
 
