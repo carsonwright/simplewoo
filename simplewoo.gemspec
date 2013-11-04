@@ -6,8 +6,8 @@ require 'simplewoo/version'
 Gem::Specification.new do |spec|
     spec.name          = "simplewoo"
     spec.version       = Simplewoo::VERSION
-    spec.authors       = ["Jason Truluck, Carson Wright, Tom Prats, Sam Kaiser Boyd, Chris Preisinger"]
-    spec.email         = ["jason.truluck@gmail.com, carson@woofound.com, tom@woofound.com, sam@woofound.com, chris@woofound.com"]
+    spec.authors       = ["Jason Truluck", "Carson Wright", "Tom Prats", "Sam Boyd", "Chris Preisinger"]
+    spec.email         = ["jason.truluck@gmail.com", "carsonnwright@gmail.com", "tom@tomprats.com", "sam@woofound.com", "chris@woofound.com"]
     spec.description   = %q{Woofound Client Gem}
     spec.summary       = spec.description
     spec.homepage      = ""
