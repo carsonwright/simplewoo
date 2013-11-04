@@ -1,0 +1,20 @@
+{
+  "name": "Going Camping",
+  "image": {
+    "url": "https://core-production.s3.amazonaws.com/images/tag/2/2299831e510175a6d688.jpg",
+    "_640x640": {
+      "url": "https://core-production.s3.amazonaws.com/images/tag/2/_640x640_2299831e510175a6d688.jpg"
+    },
+    "_320x320": {
+      "url": "https://core-production.s3.amazonaws.com/images/tag/2/_320x320_2299831e510175a6d688.jpg"
+    },
+    "_640x816": {
+      "url": "https://core-production.s3.amazonaws.com/images/tag/2/_640x816_2299831e510175a6d688.jpg"
+    }
+  },
+  "_links": {
+    "self": {
+      "href": "https://core.woofound.com/tags/2"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "email": "tom@example.com",
+  "first_name": "Jason",
+  "last_name": "Truluck",
+  "bio": "Some Awesome bio\r\n",
+  "image": {
+    "url": "https://s3.amazonaws.com/woofound/images/static/default/default.png"
+  },
+  "badge": {
+    "url": "https://s3.amazonaws.com/woofound/images/static/default/default.png"
+  },
+  "_links": {
+    "http://woofound.com/rels/me": {
+      "href": "https://core.woofound.com/users/me"
+    }
+  },
+  "birthday": "1988-01-01",
+  "uuid": "75936ec0-2246-0131-74f5-12313d00cdfe"
+}

@@ -1,0 +1,23 @@
+{
+  "_embedded": {
+    "sliders": [
+      {
+        "name": "Compass",
+        "image": {
+          "url": "https://s3.amazonaws.com/woofound/images/static/default/default.png"
+        },
+        "entity_pages": 30,
+        "_links": {
+          "self": {
+            "href": "https://core.woofound.com/sliders/2"
+          }
+        }
+      }
+            ]
+  },
+  "_links": {
+    "self": {
+      "href": "http://core.woofound.com/sliders"
+    }
+  }
+}

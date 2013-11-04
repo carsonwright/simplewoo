@@ -1,0 +1,1554 @@
+{
+  "_embedded": {
+    "entities": [
+      {
+        "name": "Nursery Worker",
+        "image": {
+          "url": "https://core-production.s3.amazonaws.com/images/entity/12908/050c86054814a4f1fa63.jpg",
+          "_640x640": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12908/_640x640_050c86054814a4f1fa63.jpg"
+          },
+          "_506x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12908/_506x540_050c86054814a4f1fa63.jpg"
+          },
+          "_480x208": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12908/_480x208_050c86054814a4f1fa63.jpg"
+          },
+          "_320x320": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12908/_320x320_050c86054814a4f1fa63.jpg"
+          },
+          "_306x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12908/_306x540_050c86054814a4f1fa63.jpg"
+          },
+          "_300x300": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12908/_300x300_050c86054814a4f1fa63.jpg"
+          },
+          "_260x260": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12908/_260x260_050c86054814a4f1fa63.jpg"
+          },
+          "_253x270": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12908/_253x270_050c86054814a4f1fa63.jpg"
+          },
+          "_240x104": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12908/_240x104_050c86054814a4f1fa63.jpg"
+          },
+          "_166x166": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12908/_166x166_050c86054814a4f1fa63.jpg"
+          },
+          "_150x150": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12908/_150x150_050c86054814a4f1fa63.jpg"
+          },
+          "_120x120": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12908/_120x120_050c86054814a4f1fa63.jpg"
+          },
+          "_90x90": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12908/_90x90_050c86054814a4f1fa63.jpg"
+          },
+          "_83x83": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12908/_83x83_050c86054814a4f1fa63.jpg"
+          },
+          "_60x60": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12908/_60x60_050c86054814a4f1fa63.jpg"
+          },
+          "_45x45": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12908/_45x45_050c86054814a4f1fa63.jpg"
+          },
+          "_30x30": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12908/_30x30_050c86054814a4f1fa63.jpg"
+          }
+        },
+        "uuid": "6806f840-3e73-0130-73dd-12313d00cdfe",
+        "latitude": null,
+        "longitude": null,
+        "updated_at": "2013-01-31T17:02:45Z",
+        "_links": {
+          "self": {
+            "href": "https://core.woofound.com/sliders/2/entities/12908"
+          }
+        },
+        "blend": "NT",
+        "green": "false",
+        "active": "true",
+        "bright": "false",
+        "min_edu": "High School Diploma",
+        "colleges": "[{\"name\":\"University of California Berkeley\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/university_of_california_berkeley.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_university_of_california_berkeley.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_university_of_california_berkeley.jpg\"},\"website\":\"http://www.berkeley.edu/\",\"twitter\":\"@ucberkeley\",\"facebook\":\"https://www.facebook.com/UCBerkeley\",\"linkedin\":\"http://www.linkedin.com/company/2517?trk=tyah\"},{\"name\":\"Pennsylvania State University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/pennsylvania_state_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_pennsylvania_state_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_pennsylvania_state_university.jpg\"},\"website\":\"http://www.psu.edu/\",\"twitter\":\"@penn_state\",\"facebook\":\"https://www.facebook.com/pennstate\",\"linkedin\":\"http://www.linkedin.com/groups?home=&gid=40178\"},{\"name\":\"Washington State University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/washington_state_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_washington_state_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_washington_state_university.jpg\"},\"website\":\"http://www.wsu.edu/\",\"twitter\":\"@wsunews\",\"facebook\":\"https://www.facebook.com/washingtonstateuniv\",\"linkedin\":\"http://www.linkedin.com/company/166875?trk=tyah\"},{\"name\":\"Cornell University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/cornell_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_cornell_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_cornell_university.jpg\"},\"website\":\"http://www.cornell.edu/\",\"twitter\":\"@cornell\",\"facebook\":\"https://www.facebook.com/Cornell\",\"linkedin\":\"http://www.linkedin.com/company/3523?trk=tyah\"},{\"name\":\"Washington University in St. Louis\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/washington_university_in_st_louis.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_washington_university_in_st_louis.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_washington_university_in_st_louis.jpg\"},\"website\":\"http://wustl.edu/\",\"twitter\":\"@wustl\",\"facebook\":\"https://www.facebook.com/wustl\",\"linkedin\":\"http://www.linkedin.com/company/4608?trk=tyah\"}]",
+        "onet_link": "http://www.onetonline.org/link/summary/45-2092.01",
+        "avg_salary": "$10,000-20,000",
+        "businesses": "[{\"name\":\"Swansons Nursery\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/swansons_nursery.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_swansons_nursery.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_swansons_nursery.jpg\"},\"website\":\"http://www.swansonsnursery.com/\",\"twitter\":\"@swansons\",\"facebook\":\"https://www.facebook.com/pages/Swansons-Nursery/144985602200678\",\"linkedin\":\"http://www.linkedin.com/company/2467371?trk=tyah\"},{\"name\":\"Portland Nursery\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/portland_nursery.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_portland_nursery.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_portland_nursery.jpg\"},\"website\":\"http://www.portlandnursery.com/\",\"twitter\":\"@pdxnursery\",\"facebook\":\"https://www.facebook.com/PortlandNursery1?v=wall\",\"linkedin\":null},{\"name\":\"Thornhill Nursery\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/thornhill_nursery.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_thornhill_nursery.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_thornhill_nursery.jpg\"},\"website\":\"http://thornhillnursery.com/\",\"twitter\":\"@thornhillnsy\",\"facebook\":\"https://www.facebook.com/pages/Thornhill-Nursery/117398764963517\",\"linkedin\":null},{\"name\":\"Gethsemane Gardens\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/gethsemane_gardens.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_gethsemane_gardens.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_gethsemane_gardens.jpg\"},\"website\":\"http://www.gethsemanegardens.com/\",\"twitter\":\"@growgethsemane\",\"facebook\":\"https://www.facebook.com/pages/Gethsemane-Garden-Center/316505770524\",\"linkedin\":null},{\"name\":\"Barton Springs Nursery\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/barton_springs_nursery.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_barton_springs_nursery.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_barton_springs_nursery.jpg\"},\"website\":\"http://www.bartonspringsnursery.net/\",\"twitter\":\"@bsn_plants\",\"facebook\":\"https://www.facebook.com/pages/Barton-Springs-Nursery/101176200455?ref=ts%2F\",\"linkedin\":null}]",
+        "description": "Work in nursery facilities or at customer location planting, cultivating, harvesting, and transplanting trees, shrubs, or plants.",
+        "growth_rate": null
+      },
+      {
+        "name": "Costume Attendant",
+        "image": {
+          "url": "https://core-production.s3.amazonaws.com/images/entity/12909/421e2e101be2985885a5.jpg",
+          "_640x640": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12909/_640x640_421e2e101be2985885a5.jpg"
+          },
+          "_506x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12909/_506x540_421e2e101be2985885a5.jpg"
+          },
+          "_480x208": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12909/_480x208_421e2e101be2985885a5.jpg"
+          },
+          "_320x320": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12909/_320x320_421e2e101be2985885a5.jpg"
+          },
+          "_306x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12909/_306x540_421e2e101be2985885a5.jpg"
+          },
+          "_300x300": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12909/_300x300_421e2e101be2985885a5.jpg"
+          },
+          "_260x260": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12909/_260x260_421e2e101be2985885a5.jpg"
+          },
+          "_253x270": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12909/_253x270_421e2e101be2985885a5.jpg"
+          },
+          "_240x104": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12909/_240x104_421e2e101be2985885a5.jpg"
+          },
+          "_166x166": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12909/_166x166_421e2e101be2985885a5.jpg"
+          },
+          "_150x150": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12909/_150x150_421e2e101be2985885a5.jpg"
+          },
+          "_120x120": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12909/_120x120_421e2e101be2985885a5.jpg"
+          },
+          "_90x90": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12909/_90x90_421e2e101be2985885a5.jpg"
+          },
+          "_83x83": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12909/_83x83_421e2e101be2985885a5.jpg"
+          },
+          "_60x60": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12909/_60x60_421e2e101be2985885a5.jpg"
+          },
+          "_45x45": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12909/_45x45_421e2e101be2985885a5.jpg"
+          },
+          "_30x30": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12909/_30x30_421e2e101be2985885a5.jpg"
+          }
+        },
+        "uuid": "6b4f9c50-3e73-0130-73dd-12313d00cdfe",
+        "latitude": null,
+        "longitude": null,
+        "updated_at": "2013-01-31T17:48:50Z",
+        "_links": {
+          "self": {
+            "href": "https://core.woofound.com/sliders/2/entities/12909"
+          }
+        },
+        "blend": "IPM",
+        "green": "false",
+        "active": "true",
+        "bright": "false",
+        "min_edu": "High School Diploma",
+        "colleges": "[{\"name\":\"Abilene Christian University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/abilene_christian_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_abilene_christian_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_abilene_christian_university.jpg\"},\"website\":\"http://www.acu.edu/\",\"twitter\":\"@acuedu\",\"facebook\":\"https://www.facebook.com/abilenechristian\",\"linkedin\":\"http://www.linkedin.com/groups/Abilene-Christian-University-1910637/about\"},{\"name\":\"Abraham Baldwin Agricultural College\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/abraham_baldwin_agricultural_college.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_abraham_baldwin_agricultural_college.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_abraham_baldwin_agricultural_college.jpg\"},\"website\":\"http://www.abac.edu/\",\"twitter\":\"@abac_college\",\"facebook\":\"https://www.facebook.com/1908ABAC\",\"linkedin\":\"http://www.linkedin.com/company/1838654?trk=tyah\"},{\"name\":\"Adams State University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/adams_state_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_adams_state_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_adams_state_university.jpg\"},\"website\":\"http://www.adams.edu/\",\"twitter\":\"@adamsstate\",\"facebook\":\"https://www.facebook.com/adamsstate\",\"linkedin\":null},{\"name\":\"Adelphi University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/adelphi_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_adelphi_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_adelphi_university.jpg\"},\"website\":\"http://www.adelphi.edu/\",\"twitter\":\"@adelphiu\",\"facebook\":\"https://www.facebook.com/AdelphiU\",\"linkedin\":\"http://www.linkedin.com/company/162282?trk=tyah\"},{\"name\":\"Adirondack Community College\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/adirondack_community_college.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_adirondack_community_college.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_adirondack_community_college.jpg\"},\"website\":\"http://www.sunyacc.edu/\",\"twitter\":\"@sunyadirondack\",\"facebook\":\"https://www.facebook.com/SUNYAdirondack\",\"linkedin\":\"http://www.linkedin.com/company/suny-adirondack/\"}]",
+        "onet_link": "http://www.onetonline.org/link/summary/39-3092.00",
+        "avg_salary": "$30,000-40,000",
+        "businesses": "[{\"name\":\"Penumbra Theatre\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/penumbra_theatre.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_penumbra_theatre.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_penumbra_theatre.jpg\"},\"website\":\"http://www.penumbratheatre.org/\",\"twitter\":\"@penumbratheatre\",\"facebook\":\"https://www.facebook.com/pages/Penumbra-Theatre-Company/31586568925\",\"linkedin\":null},{\"name\":\"The Kennedy Center\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/the_kennedy_center.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_the_kennedy_center.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_the_kennedy_center.jpg\"},\"website\":\"http://www.kennedy-center.org/\",\"twitter\":\"@kencen\",\"facebook\":\"https://www.facebook.com/KennedyCenter\",\"linkedin\":\"http://www.linkedin.com/company/18805?trk=tyah\"},{\"name\":\"Cincinnati Playhouse in the Park\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/cincinnati_playhouse_in_the_park.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_cincinnati_playhouse_in_the_park.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_cincinnati_playhouse_in_the_park.jpg\"},\"website\":\"http://www.cincyplay.com/\",\"twitter\":\"@cincyplay\",\"facebook\":\"https://www.facebook.com/pages/Cincinnati-Playhouse-in-the-Park/363863578286\",\"linkedin\":\"http://www.linkedin.com/company/929850?trk=tyah\"},{\"name\":\"Denver Performing Arts Complex\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/denver_performing_arts_complex.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_denver_performing_arts_complex.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_denver_performing_arts_complex.jpg\"},\"website\":\"http://www.denvercenter.org/\",\"twitter\":\"@denvercenter\",\"facebook\":\"https://www.facebook.com/DenverCenter\",\"linkedin\":\"http://www.linkedin.com/company/51560?trk=tyah\"},{\"name\":\"Eugene O'Neill Theater\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/eugene_o'neill_theater.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_eugene_o'neill_theater.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_eugene_o'neill_theater.jpg\"},\"website\":\"http://www.theoneill.org/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/The-Eugene-ONeill-Theater-Center/28066519878\",\"linkedin\":\"http://www.linkedin.com/company/1115534?trk=tyah\"}]",
+        "description": "Select, fit, and take care of costumes for cast members, and aid entertainers. May assist with multiple costume changes during performances.",
+        "growth_rate": null
+      },
+      {
+        "name": "Oil and Gas Field Worker",
+        "image": {
+          "url": "https://core-production.s3.amazonaws.com/images/entity/12910/ae2c31be773046799ed2.jpg",
+          "_640x640": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12910/_640x640_ae2c31be773046799ed2.jpg"
+          },
+          "_506x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12910/_506x540_ae2c31be773046799ed2.jpg"
+          },
+          "_480x208": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12910/_480x208_ae2c31be773046799ed2.jpg"
+          },
+          "_320x320": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12910/_320x320_ae2c31be773046799ed2.jpg"
+          },
+          "_306x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12910/_306x540_ae2c31be773046799ed2.jpg"
+          },
+          "_300x300": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12910/_300x300_ae2c31be773046799ed2.jpg"
+          },
+          "_260x260": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12910/_260x260_ae2c31be773046799ed2.jpg"
+          },
+          "_253x270": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12910/_253x270_ae2c31be773046799ed2.jpg"
+          },
+          "_240x104": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12910/_240x104_ae2c31be773046799ed2.jpg"
+          },
+          "_166x166": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12910/_166x166_ae2c31be773046799ed2.jpg"
+          },
+          "_150x150": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12910/_150x150_ae2c31be773046799ed2.jpg"
+          },
+          "_120x120": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12910/_120x120_ae2c31be773046799ed2.jpg"
+          },
+          "_90x90": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12910/_90x90_ae2c31be773046799ed2.jpg"
+          },
+          "_83x83": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12910/_83x83_ae2c31be773046799ed2.jpg"
+          },
+          "_60x60": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12910/_60x60_ae2c31be773046799ed2.jpg"
+          },
+          "_45x45": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12910/_45x45_ae2c31be773046799ed2.jpg"
+          },
+          "_30x30": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12910/_30x30_ae2c31be773046799ed2.jpg"
+          }
+        },
+        "uuid": "6bfa5b30-3e73-0130-73dd-12313d00cdfe",
+        "latitude": null,
+        "longitude": null,
+        "updated_at": "2013-02-01T17:01:05Z",
+        "_links": {
+          "self": {
+            "href": "https://core.woofound.com/sliders/2/entities/12910"
+          }
+        },
+        "blend": "TPA",
+        "green": "false",
+        "active": "true",
+        "bright": "false",
+        "min_edu": "High School Diploma",
+        "colleges": "[{\"name\":\"Bakersfield College\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/bakersfield_college.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_bakersfield_college.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_bakersfield_college.jpg\"},\"website\":\"http://www.bakersfieldcollege.edu/\",\"twitter\":\"@bcrenegades\",\"facebook\":\"https://www.facebook.com/BakersfieldCollege?fref=ts\",\"linkedin\":\"http://www.linkedin.com/company/426522?trk=tyah\"},{\"name\":\"American Petroleum Institute\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/american_petroleum_institute.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_american_petroleum_institute.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_american_petroleum_institute.jpg\"},\"website\":\"http://www.api.org/\",\"twitter\":\"@energytomorrow\",\"facebook\":\"https://www.facebook.com/Energy.Tomorrow\",\"linkedin\":\"http://www.linkedin.com/company/236520?trk=tyah\"},{\"name\":\"Murchison Drilling Schools\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/murchison_drilling_schools.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_murchison_drilling_schools.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_murchison_drilling_schools.jpg\"},\"website\":\"http://www.murchisondrillingschools.com/\",\"twitter\":\"@trainingmds\",\"facebook\":\"https://www.facebook.com/pages/Murchison-Drilling-Schools/158018484232622\",\"linkedin\":\"http://www.linkedin.com/company/2650870?trk=tyah\"},{\"name\":\"Bates Technical College\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/bates_technical_college.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_bates_technical_college.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_bates_technical_college.jpg\"},\"website\":\"http://www.bates.ctc.edu/\",\"twitter\":\"@batestechnical\",\"facebook\":\"https://www.facebook.com/BatesTechnicalCollege?fref=ts\",\"linkedin\":\"http://www.linkedin.com/company/375057?trk=tyah\"},{\"name\":\"BCIT School of Energy\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/bcit_school_of_energy.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_bcit_school_of_energy.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_bcit_school_of_energy.jpg\"},\"website\":\"http://www.bcit.ca/\",\"twitter\":\"@bcit\",\"facebook\":\"https://www.facebook.com/bcit.ca\",\"linkedin\":\"http://www.linkedin.com/company/8344?trk=tyah\"}]",
+        "onet_link": "http://www.onetonline.org/link/summary/47-5012.00",
+        "avg_salary": "$40,000-50,000",
+        "businesses": "[{\"name\":\"Exxon Mobil\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/exxon_mobil.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_exxon_mobil.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_exxon_mobil.jpg\"},\"website\":\"http://www2.exxonmobil.com/\",\"twitter\":\"@exxonmobil\",\"facebook\":\"https://www.facebook.com/ExxonMobileCorp?fref=ts\",\"linkedin\":\"http://www.linkedin.com/company/1689?trk=tyah\"},{\"name\":\"ConocoPhillips\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/conocophillips.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_conocophillips.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_conocophillips.jpg\"},\"website\":\"http://www.conocophillips.com/\",\"twitter\":\"@conocophillips\",\"facebook\":\"https://www.facebook.com/conocophillips?ref=ts\",\"linkedin\":\"http://www.linkedin.com/company/3600?trk=tyah\"},{\"name\":\"Chevron\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/chevron.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_chevron.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_chevron.jpg\"},\"website\":\"http://www.chevron.com/\",\"twitter\":\"@chevron\",\"facebook\":\"https://www.facebook.com/Chevron\",\"linkedin\":\"http://www.linkedin.com/company/chevron\"},{\"name\":\"Anadarko Petroleum Corporation\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/anadarko_petroleum_corporation.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_anadarko_petroleum_corporation.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_anadarko_petroleum_corporation.jpg\"},\"website\":\"http://www.anadarko.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/Anadarko-Petroleum-Corp-APC/171817376268721\",\"linkedin\":\"http://www.linkedin.com/company/5844?trk=tyah\"},{\"name\":\"BP America\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/bp_america.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_bp_america.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_bp_america.jpg\"},\"website\":\"http://www.bp.com/\",\"twitter\":\"@bp_america\",\"facebook\":\"https://www.facebook.com/BPAmerica?fref=ts\",\"linkedin\":\"http://www.linkedin.com/company/1389?trk=tyah\"}]",
+        "description": "Rig derrick equipment and operate pumps to circulate mud through drill hole.",
+        "growth_rate": "0-9%"
+      },
+      {
+        "name": "Product Promoter",
+        "image": {
+          "url": "https://core-production.s3.amazonaws.com/images/entity/12911/0f5ea8e452cd7290e117.jpg",
+          "_640x640": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12911/_640x640_0f5ea8e452cd7290e117.jpg"
+          },
+          "_506x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12911/_506x540_0f5ea8e452cd7290e117.jpg"
+          },
+          "_480x208": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12911/_480x208_0f5ea8e452cd7290e117.jpg"
+          },
+          "_320x320": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12911/_320x320_0f5ea8e452cd7290e117.jpg"
+          },
+          "_306x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12911/_306x540_0f5ea8e452cd7290e117.jpg"
+          },
+          "_300x300": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12911/_300x300_0f5ea8e452cd7290e117.jpg"
+          },
+          "_260x260": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12911/_260x260_0f5ea8e452cd7290e117.jpg"
+          },
+          "_253x270": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12911/_253x270_0f5ea8e452cd7290e117.jpg"
+          },
+          "_240x104": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12911/_240x104_0f5ea8e452cd7290e117.jpg"
+          },
+          "_166x166": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12911/_166x166_0f5ea8e452cd7290e117.jpg"
+          },
+          "_150x150": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12911/_150x150_0f5ea8e452cd7290e117.jpg"
+          },
+          "_120x120": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12911/_120x120_0f5ea8e452cd7290e117.jpg"
+          },
+          "_90x90": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12911/_90x90_0f5ea8e452cd7290e117.jpg"
+          },
+          "_83x83": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12911/_83x83_0f5ea8e452cd7290e117.jpg"
+          },
+          "_60x60": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12911/_60x60_0f5ea8e452cd7290e117.jpg"
+          },
+          "_45x45": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12911/_45x45_0f5ea8e452cd7290e117.jpg"
+          },
+          "_30x30": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12911/_30x30_0f5ea8e452cd7290e117.jpg"
+          }
+        },
+        "uuid": "6df48c40-3e73-0130-73dd-12313d00cdfe",
+        "latitude": null,
+        "longitude": null,
+        "updated_at": "2013-01-31T17:51:51Z",
+        "_links": {
+          "self": {
+            "href": "https://core.woofound.com/sliders/2/entities/12911"
+          }
+        },
+        "blend": "VM",
+        "green": "false",
+        "active": "true",
+        "bright": "false",
+        "min_edu": "High School Diploma",
+        "colleges": "[{\"name\":\"Allen Community College\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/default.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/_70x70_default.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/_50x50_default.jpg\"},\"website\":\"http://www.allencc.edu/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/Allen-Community-College/33234557182\",\"linkedin\":null},{\"name\":\"Altahama Technical College\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/altahama_technical_college.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_altahama_technical_college.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_altahama_technical_college.jpg\"},\"website\":\"http://www.altamahatech.edu/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/altamahatech\",\"linkedin\":null},{\"name\":\"Anne Arundel Community College\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/anne_arundel_community_college.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_anne_arundel_community_college.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_anne_arundel_community_college.jpg\"},\"website\":\"http://www.aacc.edu/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/Anne-Arundel-Community-College-Arnold-Campus/109241192475814\",\"linkedin\":\"http://www.linkedin.com/groups/Anne-Arundel-Community-College-4437823?gid=4437823&mostPopular=&trk=tyah\"},{\"name\":\"Anoka-Ramsey Community College\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/anoka-ramsey_community_college.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_anoka-ramsey_community_college.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_anoka-ramsey_community_college.jpg\"},\"website\":\"http://www.anokaramsey.edu/\",\"twitter\":\"@anokaramseycc\",\"facebook\":\"https://www.facebook.com/AnokaRamseyCommunityCollege\",\"linkedin\":\"http://www.linkedin.com/company/62255?trk=tyah\"},{\"name\":\"Arizona Western College\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/arizona_western_college.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_arizona_western_college.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_arizona_western_college.jpg\"},\"website\":\"http://www.azwestern.edu/\",\"twitter\":\"@arizonawestern\",\"facebook\":\"https://www.facebook.com/pages/Arizona-Western-College/151417306672\",\"linkedin\":\"http://www.linkedin.com/company/33195?trk=tyah\"}]",
+        "onet_link": "http://www.onetonline.org/link/summary/41-9011.00",
+        "avg_salary": "$20,000-30,000",
+        "businesses": "[{\"name\":\"The Promotion Company\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/the_promotion_company.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_the_promotion_company.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_the_promotion_company.jpg\"},\"website\":\"http://www.thepromotioncompany.net/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/tpcstaff\",\"linkedin\":null},{\"name\":\"Pinnacle Promotions\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/pinnacle_promotions.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_pinnacle_promotions.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_pinnacle_promotions.jpg\"},\"website\":\"http://www.pinnaclepromotions.com/\",\"twitter\":\"@pinnaclepromos\",\"facebook\":\"https://www.facebook.com/PinnaclePromotions\",\"linkedin\":\"http://www.linkedin.com/company/pinnacle-promotions\"},{\"name\":\"A&M Promotions Company\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/am_promotions_company.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_am_promotions_company.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_am_promotions_company.jpg\"},\"website\":\"http://www.anmandco.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/AM-Promotions-Co-Scottsdale-Az-85254/143945576708\",\"linkedin\":null},{\"name\":\"The Vernon Company\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/the_vernon_company.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_the_vernon_company.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_the_vernon_company.jpg\"},\"website\":\"http://www.vernoncompany.com/\",\"twitter\":\"@vernonwantsu\",\"facebook\":\"https://www.facebook.com/getyourbrandon?fref=ts\",\"linkedin\":\"http://www.linkedin.com/company/65972?trk=tyah\"},{\"name\":\"Black Dog Promotions\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/black_dog_promotions.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_black_dog_promotions.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_black_dog_promotions.jpg\"},\"website\":\"http://www.blackdogpromotions.com/\",\"twitter\":\"@blackdogpromo\",\"facebook\":\"https://www.facebook.com/BlackDogPR\",\"linkedin\":\"http://www.linkedin.com/in/blackdogpromotions\"}]",
+        "description": "Demonstrate merchandise and answer questions for the purpose of creating public interest in buying the product. May sell demonstrated merchandise.",
+        "growth_rate": "10-19%"
+      },
+      {
+        "name": "Mining Machine Operator",
+        "image": {
+          "url": "https://core-production.s3.amazonaws.com/images/entity/12912/19c00f025cb4acdc8c8b.jpg",
+          "_640x640": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12912/_640x640_19c00f025cb4acdc8c8b.jpg"
+          },
+          "_506x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12912/_506x540_19c00f025cb4acdc8c8b.jpg"
+          },
+          "_480x208": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12912/_480x208_19c00f025cb4acdc8c8b.jpg"
+          },
+          "_320x320": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12912/_320x320_19c00f025cb4acdc8c8b.jpg"
+          },
+          "_306x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12912/_306x540_19c00f025cb4acdc8c8b.jpg"
+          },
+          "_300x300": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12912/_300x300_19c00f025cb4acdc8c8b.jpg"
+          },
+          "_260x260": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12912/_260x260_19c00f025cb4acdc8c8b.jpg"
+          },
+          "_253x270": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12912/_253x270_19c00f025cb4acdc8c8b.jpg"
+          },
+          "_240x104": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12912/_240x104_19c00f025cb4acdc8c8b.jpg"
+          },
+          "_166x166": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12912/_166x166_19c00f025cb4acdc8c8b.jpg"
+          },
+          "_150x150": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12912/_150x150_19c00f025cb4acdc8c8b.jpg"
+          },
+          "_120x120": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12912/_120x120_19c00f025cb4acdc8c8b.jpg"
+          },
+          "_90x90": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12912/_90x90_19c00f025cb4acdc8c8b.jpg"
+          },
+          "_83x83": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12912/_83x83_19c00f025cb4acdc8c8b.jpg"
+          },
+          "_60x60": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12912/_60x60_19c00f025cb4acdc8c8b.jpg"
+          },
+          "_45x45": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12912/_45x45_19c00f025cb4acdc8c8b.jpg"
+          },
+          "_30x30": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12912/_30x30_19c00f025cb4acdc8c8b.jpg"
+          }
+        },
+        "uuid": "70db11e0-3e73-0130-73dd-12313d00cdfe",
+        "latitude": null,
+        "longitude": null,
+        "updated_at": "2013-01-31T16:51:40Z",
+        "_links": {
+          "self": {
+            "href": "https://core.woofound.com/sliders/2/entities/12912"
+          }
+        },
+        "blend": "TPA",
+        "green": "true",
+        "active": "true",
+        "bright": "false",
+        "min_edu": "High School Diploma",
+        "colleges": "[{\"name\":\"Northcentral University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/northcentral_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_northcentral_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_northcentral_university.jpg\"},\"website\":\"http://www.ncu.edu/\",\"twitter\":\"@northcentralu\",\"facebook\":\"https://www.facebook.com/NorthcentralU\",\"linkedin\":\"http://www.linkedin.com/company/35183?trk=tyah\"},{\"name\":\"Edumine\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/edumine.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_edumine.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_edumine.jpg\"},\"website\":\"http://www.edumine.com/\",\"twitter\":\"@edumine\",\"facebook\":\"https://www.facebook.com/edumine\",\"linkedin\":\"http://www.linkedin.com/company/468859?trk=tyah\"},{\"name\":\"Vincennes University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/vincennes_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_vincennes_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_vincennes_university.jpg\"},\"website\":\"http://www.vinu.edu/\",\"twitter\":\"@vincennesu\",\"facebook\":\"https://www.facebook.com/vincennesuniversity\",\"linkedin\":\"http://www.linkedin.com/company/30770?trk=tyah\"},{\"name\":\"Arizona State University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/arizona_state_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_arizona_state_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_arizona_state_university.jpg\"},\"website\":\"http://www.asu.edu/\",\"twitter\":\"@asu\",\"facebook\":\"https://www.facebook.com/arizonastateuniversity\",\"linkedin\":\"http://www.linkedin.com/company/arizona-state-university\"},{\"name\":\"Iom3\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/iom3.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_iom3.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_iom3.jpg\"},\"website\":\"http://www.iom3.org/\",\"twitter\":\"@iom3\",\"facebook\":\"https://www.facebook.com/iom3globalnetwork\",\"linkedin\":\"http://www.linkedin.com/groups?gid=40508\"}]",
+        "onet_link": "http://www.onetonline.org/link/summary/47-5041.00",
+        "avg_salary": "$50,000-60,000",
+        "businesses": "[{\"name\":\"CONSOL Energy\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/consol_energy.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_consol_energy.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_consol_energy.jpg\"},\"website\":\"http://www.consolenergy.com/\",\"twitter\":\"@consol_energy\",\"facebook\":\"https://www.facebook.com/consolenergy\",\"linkedin\":\"http://www.linkedin.com/company/38666?trk=tyah\"},{\"name\":\"Newmont Mining Corporation\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/newmont_mining_corporation.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_newmont_mining_corporation.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_newmont_mining_corporation.jpg\"},\"website\":\"http://www.newmont.com/\",\"twitter\":\"@newmont\",\"facebook\":\"https://www.facebook.com/NewmontMiningCorporation\",\"linkedin\":\"http://www.linkedin.com/company/newmont-mining-corporation\"},{\"name\":\"Goldcorp, Inc.\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/goldcorp,_inc.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_goldcorp,_inc.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_goldcorp,_inc.jpg\"},\"website\":\"http://www.goldcorp.com/\",\"twitter\":\"@goldcorp_inc\",\"facebook\":\"https://www.facebook.com/Goldcorp?fref=ts\",\"linkedin\":\"http://www.linkedin.com/company/374889?trk=tyah\"},{\"name\":\"Arch Coal, Inc.\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/arch_coal,_inc.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_arch_coal,_inc.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_arch_coal,_inc.jpg\"},\"website\":\"http://www.archcoal.com/\",\"twitter\":\"@archcoal\",\"facebook\":\"https://www.facebook.com/pages/Arch-Coal-Inc/266877643381090\",\"linkedin\":\"http://www.linkedin.com/company/arch-coal-inc.\"},{\"name\":\"Barrick Gold\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/barrick_gold.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_barrick_gold.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_barrick_gold.jpg\"},\"website\":\"http://www.barrick.com/\",\"twitter\":\"@barrickgold\",\"facebook\":\"https://www.facebook.com/barrick.gold.corporation?fref=ts\",\"linkedin\":\"http://www.linkedin.com/company/11876?trk=tyah\"}]",
+        "description": "Operate self-propelled mining machines that rip coal, metal and nonmetal ores, rock, stone, or sand from the mine face and load it onto conveyors or into shuttle cars in a continuous operation.",
+        "growth_rate": null
+      },
+      {
+        "name": "Animal Trainer",
+        "image": {
+          "url": "https://core-production.s3.amazonaws.com/images/entity/12913/c16f3a19d81727e06e85.jpg",
+          "_640x640": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12913/_640x640_c16f3a19d81727e06e85.jpg"
+          },
+          "_506x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12913/_506x540_c16f3a19d81727e06e85.jpg"
+          },
+          "_480x208": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12913/_480x208_c16f3a19d81727e06e85.jpg"
+          },
+          "_320x320": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12913/_320x320_c16f3a19d81727e06e85.jpg"
+          },
+          "_306x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12913/_306x540_c16f3a19d81727e06e85.jpg"
+          },
+          "_300x300": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12913/_300x300_c16f3a19d81727e06e85.jpg"
+          },
+          "_260x260": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12913/_260x260_c16f3a19d81727e06e85.jpg"
+          },
+          "_253x270": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12913/_253x270_c16f3a19d81727e06e85.jpg"
+          },
+          "_240x104": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12913/_240x104_c16f3a19d81727e06e85.jpg"
+          },
+          "_166x166": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12913/_166x166_c16f3a19d81727e06e85.jpg"
+          },
+          "_150x150": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12913/_150x150_c16f3a19d81727e06e85.jpg"
+          },
+          "_120x120": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12913/_120x120_c16f3a19d81727e06e85.jpg"
+          },
+          "_90x90": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12913/_90x90_c16f3a19d81727e06e85.jpg"
+          },
+          "_83x83": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12913/_83x83_c16f3a19d81727e06e85.jpg"
+          },
+          "_60x60": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12913/_60x60_c16f3a19d81727e06e85.jpg"
+          },
+          "_45x45": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12913/_45x45_c16f3a19d81727e06e85.jpg"
+          },
+          "_30x30": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12913/_30x30_c16f3a19d81727e06e85.jpg"
+          }
+        },
+        "uuid": "738e3530-3e73-0130-73dd-12313d00cdfe",
+        "latitude": null,
+        "longitude": null,
+        "updated_at": "2013-01-31T17:06:12Z",
+        "_links": {
+          "self": {
+            "href": "https://core.woofound.com/sliders/2/entities/12913"
+          }
+        },
+        "blend": "NMT",
+        "green": "false",
+        "active": "true",
+        "bright": "false",
+        "min_edu": "High School Diploma",
+        "colleges": "[{\"name\":\"Animal Behavior College\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/animal_behavior_college.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_animal_behavior_college.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_animal_behavior_college.jpg\"},\"website\":\"http://www.animalbehaviorcollege.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/AnimalBehaviorCollege\",\"linkedin\":\"http://www.linkedin.com/company/2145001?trk=tyah\"},{\"name\":\"Canisius College\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/canisius_college.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_canisius_college.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_canisius_college.jpg\"},\"website\":\"http://www.canisius.edu/\",\"twitter\":\"@canisiuscollege\",\"facebook\":\"https://www.facebook.com/canisiuscollege\",\"linkedin\":\"http://www.linkedin.com/company/19479?trk=tyah\"},{\"name\":\"Lamar Community College\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/lamar_community_college.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_lamar_community_college.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_lamar_community_college.jpg\"},\"website\":\"http://www.lamarcc.edu/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/lamarcommunitycollege\",\"linkedin\":\"http://www.linkedin.com/company/784534?trk=tyah\"},{\"name\":\"Moorpark College\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/moorpark_college.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_moorpark_college.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_moorpark_college.jpg\"},\"website\":\"http://www.moorparkcollege.edu/\",\"twitter\":\"@mpcollege_as\",\"facebook\":\"https://www.facebook.com/pages/Moorpark-College-Alumni/112579495458888\",\"linkedin\":\"http://www.linkedin.com/company/42747?trk=tyah\"},{\"name\":\"Bergin University of Canine Studies\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/bergin_university_of_canine_studies.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_bergin_university_of_canine_studies.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_bergin_university_of_canine_studies.jpg\"},\"website\":\"http://berginu.edu/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/BerginU\",\"linkedin\":\"http://www.linkedin.com/groups?gid=4269413&mostPopular=&trk=tyah\"}]",
+        "onet_link": "http://www.onetonline.org/link/summary/39-2011.00",
+        "avg_salary": "$20,000-30,000",
+        "businesses": "[{\"name\":\"Petco\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/petco.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_petco.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_petco.jpg\"},\"website\":\"http://www.petco.com\",\"twitter\":\"@petco\",\"facebook\":\"https://www.facebook.com/PETCO\",\"linkedin\":\"http://www.linkedin.com/groups/Petco-Animal-Supplies-Inc-1794118?gid=1794118&mostPopular=&trk=tyah\"},{\"name\":\"Top Dog Obedience Training\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/top_dog_obedience_training.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_top_dog_obedience_training.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_top_dog_obedience_training.jpg\"},\"website\":\"http://www.topdogdallas.com/\",\"twitter\":\"@topdogobedience\",\"facebook\":\"https://www.facebook.com/TopDogDallas\",\"linkedin\":null},{\"name\":\"P.U.P.S. Dog Obedience Training\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/pups_dog_obedience_training.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_pups_dog_obedience_training.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_pups_dog_obedience_training.jpg\"},\"website\":\"http://pupsdogobediencetraining.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/PUPS-Dog-Obedience-Training/122687871086570\",\"linkedin\":null},{\"name\":\"Canine University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/canine_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_canine_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_canine_university.jpg\"},\"website\":\"http://www.canineuniversity.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/Canine-University/298095346118\",\"linkedin\":null},{\"name\":\"Gemini Dogs\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/gemini_dogs.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_gemini_dogs.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_gemini_dogs.jpg\"},\"website\":\"http://www.geminidogs.com/\",\"twitter\":\"@geminidogs\",\"facebook\":\"https://www.facebook.com/geminidogs\",\"linkedin\":\"http://www.linkedin.com/pub/michelle-allen/19/417/319\"}]",
+        "description": "Train animals for riding, harness, security, performance, or obedience, or assisting persons with disabilities. Accustom animals to human voice and contact; and condition animals to respond to commands. Train animals according to prescribed standards for show or competition. May train animals to carry pack loads or work as part of pack team.",
+        "growth_rate": "0-9%"
+      },
+      {
+        "name": "Bartender",
+        "image": {
+          "url": "https://core-production.s3.amazonaws.com/images/entity/12914/252a54492423eabe16c1.jpg",
+          "_640x640": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_640x640_252a54492423eabe16c1.jpg"
+          },
+          "_506x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_506x540_252a54492423eabe16c1.jpg"
+          },
+          "_480x208": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_480x208_252a54492423eabe16c1.jpg"
+          },
+          "_320x320": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_320x320_252a54492423eabe16c1.jpg"
+          },
+          "_306x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_306x540_252a54492423eabe16c1.jpg"
+          },
+          "_300x300": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_300x300_252a54492423eabe16c1.jpg"
+          },
+          "_260x260": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_260x260_252a54492423eabe16c1.jpg"
+          },
+          "_253x270": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_253x270_252a54492423eabe16c1.jpg"
+          },
+          "_240x104": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_240x104_252a54492423eabe16c1.jpg"
+          },
+          "_166x166": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_166x166_252a54492423eabe16c1.jpg"
+          },
+          "_150x150": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_150x150_252a54492423eabe16c1.jpg"
+          },
+          "_120x120": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_120x120_252a54492423eabe16c1.jpg"
+          },
+          "_90x90": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_90x90_252a54492423eabe16c1.jpg"
+          },
+          "_83x83": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_83x83_252a54492423eabe16c1.jpg"
+          },
+          "_60x60": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_60x60_252a54492423eabe16c1.jpg"
+          },
+          "_45x45": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_45x45_252a54492423eabe16c1.jpg"
+          },
+          "_30x30": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_30x30_252a54492423eabe16c1.jpg"
+          }
+        },
+        "uuid": "769aa210-3e73-0130-73dd-12313d00cdfe",
+        "latitude": null,
+        "longitude": null,
+        "updated_at": "2013-01-31T17:10:31Z",
+        "_links": {
+          "self": {
+            "href": "https://core.woofound.com/sliders/2/entities/12914"
+          }
+        },
+        "blend": "TMV",
+        "green": "false",
+        "active": "true",
+        "bright": "true",
+        "min_edu": "High School Diploma",
+        "colleges": "[{\"name\":\"New York Bartending School\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/new_york_bartending_school.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_new_york_bartending_school.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_new_york_bartending_school.jpg\"},\"website\":\"http://www.newyorkbartendingschool.com/\",\"twitter\":\"@nybartendschool\",\"facebook\":\"https://www.facebook.com/pages/New-York-Bartending-School/26338938345\",\"linkedin\":null},{\"name\":\"Mixology Wine Institute\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/mixology_wine_institute.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_mixology_wine_institute.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_mixology_wine_institute.jpg\"},\"website\":\"http://mixologywine.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/MixologyWine?fref=ts\",\"linkedin\":null},{\"name\":\"Bartenders Professional Training Institute, Inc.\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/bartenders_professional_training_institute,_inc.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_bartenders_professional_training_institute,_inc.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_bartenders_professional_training_institute,_inc.jpg\"},\"website\":\"http://www.bartenderprotraining.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/bartendny\",\"linkedin\":null},{\"name\":\"Atlanta Bartending School\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/atlanta_bartending_school.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_atlanta_bartending_school.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_atlanta_bartending_school.jpg\"},\"website\":\"http://atlantabartendingschool.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/Atlanta-Bartending-School/286974817093?fref=ts\",\"linkedin\":null},{\"name\":\"University of Mixology\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/university_of_mixology.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_university_of_mixology.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_university_of_mixology.jpg\"},\"website\":\"http://universityofmixology.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/University-of-Mixology/117994357388\",\"linkedin\":null}]",
+        "onet_link": "http://www.onetonline.org/link/summary/35-3011.00",
+        "avg_salary": "$10,000-20,000",
+        "businesses": "[{\"name\":\"Bar Agricole\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/bar_agricole.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_bar_agricole.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_bar_agricole.jpg\"},\"website\":\"http://www.baragricole.com/\",\"twitter\":\"@baragricole\",\"facebook\":\"https://www.facebook.com/pages/Bar-Agricole/286956729303\",\"linkedin\":\"http://www.linkedin.com/company/1079854?trk=tyah\"},{\"name\":\"Cure\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/cure.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_cure.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_cure.jpg\"},\"website\":\"http://www.curenola.com/\",\"twitter\":\"@curenola\",\"facebook\":\"https://www.facebook.com/curenola\",\"linkedin\":null},{\"name\":\"Drink\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/drink.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_drink.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_drink.jpg\"},\"website\":\"http://www.drinkfortpoint.com/\",\"twitter\":\"@drinkboston\",\"facebook\":\"https://www.facebook.com/DrinkFortPoint\",\"linkedin\":null},{\"name\":\"Holeman & Finch Public House\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/holeman__finch_public_house.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_holeman__finch_public_house.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_holeman__finch_public_house.jpg\"},\"website\":\"http://www.holeman-finch.com/\",\"twitter\":\"@chefhopkins\",\"facebook\":\"https://www.facebook.com/Holeman.Finch\",\"linkedin\":null},{\"name\":\"Rattle N Hum\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/rattle_n_hum.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_rattle_n_hum.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_rattle_n_hum.jpg\"},\"website\":\"http://www.rattlenhumbarnyc.com/\",\"twitter\":\"@rattlenhumbarny\",\"facebook\":\"https://www.facebook.com/pages/Rattle-N-Hum/122918434430242\",\"linkedin\":\"http://www.linkedin.com/company/1132918?trk=tyah\"}]",
+        "description": "Mix and serve drinks to patrons, directly or through waitstaff.",
+        "growth_rate": "0-9%"
+      },
+      {
+        "name": "Bicycle Repair",
+        "image": {
+          "url": "https://core-production.s3.amazonaws.com/images/entity/12915/85b742cfae723acd1825.jpg",
+          "_640x640": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12915/_640x640_85b742cfae723acd1825.jpg"
+          },
+          "_506x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12915/_506x540_85b742cfae723acd1825.jpg"
+          },
+          "_480x208": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12915/_480x208_85b742cfae723acd1825.jpg"
+          },
+          "_320x320": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12915/_320x320_85b742cfae723acd1825.jpg"
+          },
+          "_306x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12915/_306x540_85b742cfae723acd1825.jpg"
+          },
+          "_300x300": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12915/_300x300_85b742cfae723acd1825.jpg"
+          },
+          "_260x260": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12915/_260x260_85b742cfae723acd1825.jpg"
+          },
+          "_253x270": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12915/_253x270_85b742cfae723acd1825.jpg"
+          },
+          "_240x104": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12915/_240x104_85b742cfae723acd1825.jpg"
+          },
+          "_166x166": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12915/_166x166_85b742cfae723acd1825.jpg"
+          },
+          "_150x150": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12915/_150x150_85b742cfae723acd1825.jpg"
+          },
+          "_120x120": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12915/_120x120_85b742cfae723acd1825.jpg"
+          },
+          "_90x90": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12915/_90x90_85b742cfae723acd1825.jpg"
+          },
+          "_83x83": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12915/_83x83_85b742cfae723acd1825.jpg"
+          },
+          "_60x60": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12915/_60x60_85b742cfae723acd1825.jpg"
+          },
+          "_45x45": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12915/_45x45_85b742cfae723acd1825.jpg"
+          },
+          "_30x30": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12915/_30x30_85b742cfae723acd1825.jpg"
+          }
+        },
+        "uuid": "796ba5b0-3e73-0130-73dd-12313d00cdfe",
+        "latitude": null,
+        "longitude": null,
+        "updated_at": "2013-01-31T17:10:58Z",
+        "_links": {
+          "self": {
+            "href": "https://core.woofound.com/sliders/2/entities/12915"
+          }
+        },
+        "blend": "TPA",
+        "green": "false",
+        "active": "true",
+        "bright": "true",
+        "min_edu": "High School Diploma",
+        "colleges": "[{\"name\":\"Ashworth College\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/ashworth_college.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_ashworth_college.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_ashworth_college.jpg\"},\"website\":\"http://www.ashworthcollege.edu/\",\"twitter\":\"@ashworthcollege\",\"facebook\":\"https://www.facebook.com/ashworthcollege\",\"linkedin\":\"http://www.linkedin.com/company/1430932?trk=tyah\"},{\"name\":\"Penn Foster Career School\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/penn_foster_career_school.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_penn_foster_career_school.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_penn_foster_career_school.jpg\"},\"website\":\"http://www.pennfoster.edu/\",\"twitter\":\"@pennfoster\",\"facebook\":\"https://www.facebook.com/pfcareerschool\",\"linkedin\":null},{\"name\":\"Southern New Hampshire University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/southern_new_hampshire_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_southern_new_hampshire_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_southern_new_hampshire_university.jpg\"},\"website\":\"http://www.snhu.edu/\",\"twitter\":\"@snhu\",\"facebook\":\"https://www.facebook.com/OfficialSNHU\",\"linkedin\":\"http://www.linkedin.com/groups?mostPopular=&gid=3688403\"},{\"name\":\"Liberty University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/liberty_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_liberty_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_liberty_university.jpg\"},\"website\":\"http://www.liberty.edu/\",\"twitter\":\"@libertyu\",\"facebook\":\"https://www.facebook.com/LibertyUniversity\",\"linkedin\":\"http://www.linkedin.com/company/9654?trk=tyah\"},{\"name\":\"New England Institute of Technology\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/new_england_institute_of_technology.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_new_england_institute_of_technology.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_new_england_institute_of_technology.jpg\"},\"website\":\"http://www.neit.edu/\",\"twitter\":\"@neinstitutetech\",\"facebook\":\"https://www.facebook.com/NewEnglandTech\",\"linkedin\":\"http://www.linkedin.com/company/41129?trk=tyah\"}]",
+        "onet_link": "http://www.onetonline.org/link/summary/49-3091.00",
+        "avg_salary": "$20,000-30,000",
+        "businesses": "[{\"name\":\"The Devil's Gear Bike Shop\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/the_devil's_gear_bike_shop.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_the_devil's_gear_bike_shop.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_the_devil's_gear_bike_shop.jpg\"},\"website\":\"http://www.thedevilsgear.com/\",\"twitter\":\"@thedevilsgear\",\"facebook\":\"https://www.facebook.com/thedevilsgear\",\"linkedin\":null},{\"name\":\"Intown Bicycles\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/intown_bicycles.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_intown_bicycles.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_intown_bicycles.jpg\"},\"website\":\"http://www.intownbicycles.com/\",\"twitter\":\"@intownbicycles\",\"facebook\":\"https://www.facebook.com/pages/Intown-Bicycles/179074262186089\",\"linkedin\":null},{\"name\":\"East Burke Sports\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/east_burke_sports.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_east_burke_sports.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_east_burke_sports.jpg\"},\"website\":\"http://www.eastburkesports.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/East-Burke-Sports/153752911314086\",\"linkedin\":null},{\"name\":\"Belmont Wheelworks\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/belmont_wheelworks.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_belmont_wheelworks.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_belmont_wheelworks.jpg\"},\"website\":\"http://wheelworks.com/articles/belmont-wheelworks-pg137.htm\",\"twitter\":\"@wheelworksbikes\",\"facebook\":\"https://www.facebook.com/belmontwheelworks\",\"linkedin\":null},{\"name\":\"Drummond Custom Cycles\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/drummond_custom_cycles.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_drummond_custom_cycles.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_drummond_custom_cycles.jpg\"},\"website\":\"http://drummondcycles.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/drummondcycles\",\"linkedin\":null}]",
+        "description": "Repair and service bicycles.",
+        "growth_rate": null
+      },
+      {
+        "name": "Dental Laboratory Technician",
+        "image": {
+          "url": "https://core-production.s3.amazonaws.com/images/entity/12916/2c1935502736c9d3b028.jpg",
+          "_640x640": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12916/_640x640_2c1935502736c9d3b028.jpg"
+          },
+          "_506x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12916/_506x540_2c1935502736c9d3b028.jpg"
+          },
+          "_480x208": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12916/_480x208_2c1935502736c9d3b028.jpg"
+          },
+          "_320x320": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12916/_320x320_2c1935502736c9d3b028.jpg"
+          },
+          "_306x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12916/_306x540_2c1935502736c9d3b028.jpg"
+          },
+          "_300x300": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12916/_300x300_2c1935502736c9d3b028.jpg"
+          },
+          "_260x260": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12916/_260x260_2c1935502736c9d3b028.jpg"
+          },
+          "_253x270": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12916/_253x270_2c1935502736c9d3b028.jpg"
+          },
+          "_240x104": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12916/_240x104_2c1935502736c9d3b028.jpg"
+          },
+          "_166x166": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12916/_166x166_2c1935502736c9d3b028.jpg"
+          },
+          "_150x150": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12916/_150x150_2c1935502736c9d3b028.jpg"
+          },
+          "_120x120": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12916/_120x120_2c1935502736c9d3b028.jpg"
+          },
+          "_90x90": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12916/_90x90_2c1935502736c9d3b028.jpg"
+          },
+          "_83x83": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12916/_83x83_2c1935502736c9d3b028.jpg"
+          },
+          "_60x60": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12916/_60x60_2c1935502736c9d3b028.jpg"
+          },
+          "_45x45": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12916/_45x45_2c1935502736c9d3b028.jpg"
+          },
+          "_30x30": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12916/_30x30_2c1935502736c9d3b028.jpg"
+          }
+        },
+        "uuid": "7c36d2a0-3e73-0130-73dd-12313d00cdfe",
+        "latitude": null,
+        "longitude": null,
+        "updated_at": "2013-01-31T17:52:29Z",
+        "_links": {
+          "self": {
+            "href": "https://core.woofound.com/sliders/2/entities/12916"
+          }
+        },
+        "blend": "TAP",
+        "green": "false",
+        "active": "true",
+        "bright": "false",
+        "min_edu": "High School Diploma",
+        "colleges": "[{\"name\":\"Argosy University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/argosy_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_argosy_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_argosy_university.jpg\"},\"website\":\"http://www.argosy.edu/\",\"twitter\":\"@argosyu\",\"facebook\":\"https://www.facebook.com/ArgosyStudents\",\"linkedin\":\"http://www.linkedin.com/company/162512?trk=tyah\"},{\"name\":\"ECPI University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/ecpi_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_ecpi_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_ecpi_university.jpg\"},\"website\":\"http://www.ecpi.edu/\",\"twitter\":\"@ecpiuniversity\",\"facebook\":\"https://www.facebook.com/ECPIuniversity/?intcmp=facebook\",\"linkedin\":\"http://www.linkedin.com/company/ecpi-university\"},{\"name\":\"Sanford Brown\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/sanford_brown.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_sanford_brown.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_sanford_brown.jpg\"},\"website\":\"http://www.sanfordbrown.edu/\",\"twitter\":\"@sanfordbrownedu\",\"facebook\":\"https://www.facebook.com/sanfordbrownhealthschools\",\"linkedin\":\"http://www.linkedin.com/company/838989?trk=tyah\"},{\"name\":\"Kaplan University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/kaplan_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_kaplan_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_kaplan_university.jpg\"},\"website\":\"http://www.kaplanuniversity.edu/\",\"twitter\":\"@kaplanuniv\",\"facebook\":\"https://www.facebook.com/KaplanUniversity\",\"linkedin\":\"http://www.linkedin.com/groups?gid=2244040&trk=hb_side_g\"},{\"name\":\"Walden University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/walden_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_walden_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_walden_university.jpg\"},\"website\":\"http://www.waldenu.edu\",\"twitter\":\"@waldenu\",\"facebook\":\"https://www.facebook.com/waldenu?ref=s\",\"linkedin\":\"http://www.linkedin.com/company/17473?trk=tyah\"}]",
+        "onet_link": "http://www.onetonline.org/link/summary/51-9081.00",
+        "avg_salary": "$30,000-40,000",
+        "businesses": "[{\"name\":\"Massachusetts Dental Society\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/massachusetts_dental_society.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_massachusetts_dental_society.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_massachusetts_dental_society.jpg\"},\"website\":\"http://www.massdental.org/\",\"twitter\":\"@massdental\",\"facebook\":\"https://www.facebook.com/massdental\",\"linkedin\":\"http://www.linkedin.com/company/2527650?trk=tyah\"},{\"name\":\"Friendship Dental Labs\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/friendship_dental_labs.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_friendship_dental_labs.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_friendship_dental_labs.jpg\"},\"website\":\"http://www.friendshipdentallab.com/\",\"twitter\":\"@friendshiplabs\",\"facebook\":\"https://www.facebook.com/FriendshipLabs\",\"linkedin\":\"http://www.linkedin.com/company/2428496?trk=tyah\"},{\"name\":\"Top Dentists\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/top_dentists.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_top_dentists.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_top_dentists.jpg\"},\"website\":\"http://www.topdentists.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/topdentists.com\",\"linkedin\":null},{\"name\":\"University of Maryland at Baltimore\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/university_of_maryland_at_baltimore.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_university_of_maryland_at_baltimore.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_university_of_maryland_at_baltimore.jpg\"},\"website\":\"http://www.umaryland.edu/\",\"twitter\":\"@umbnews\",\"facebook\":\"https://www.facebook.com/pages/University-of-Maryland-Baltimore/53789299214\",\"linkedin\":\"http://www.linkedin.com/company/university-of-maryland-baltimore-umb-\"},{\"name\":\"Washington Center for Dentistry\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/washington_center_for_dentistry.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_washington_center_for_dentistry.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_washington_center_for_dentistry.jpg\"},\"website\":\"http://www.washdent.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/washdent\",\"linkedin\":null}]",
+        "description": "Construct and repair full or partial dentures or dental appliances.",
+        "growth_rate": "0-9%"
+      },
+      {
+        "name": "Correspondence Clerk",
+        "image": {
+          "url": "https://core-production.s3.amazonaws.com/images/entity/12917/c6c46d2fbbcfae4e802f.jpg",
+          "_640x640": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12917/_640x640_c6c46d2fbbcfae4e802f.jpg"
+          },
+          "_506x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12917/_506x540_c6c46d2fbbcfae4e802f.jpg"
+          },
+          "_480x208": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12917/_480x208_c6c46d2fbbcfae4e802f.jpg"
+          },
+          "_320x320": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12917/_320x320_c6c46d2fbbcfae4e802f.jpg"
+          },
+          "_306x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12917/_306x540_c6c46d2fbbcfae4e802f.jpg"
+          },
+          "_300x300": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12917/_300x300_c6c46d2fbbcfae4e802f.jpg"
+          },
+          "_260x260": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12917/_260x260_c6c46d2fbbcfae4e802f.jpg"
+          },
+          "_253x270": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12917/_253x270_c6c46d2fbbcfae4e802f.jpg"
+          },
+          "_240x104": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12917/_240x104_c6c46d2fbbcfae4e802f.jpg"
+          },
+          "_166x166": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12917/_166x166_c6c46d2fbbcfae4e802f.jpg"
+          },
+          "_150x150": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12917/_150x150_c6c46d2fbbcfae4e802f.jpg"
+          },
+          "_120x120": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12917/_120x120_c6c46d2fbbcfae4e802f.jpg"
+          },
+          "_90x90": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12917/_90x90_c6c46d2fbbcfae4e802f.jpg"
+          },
+          "_83x83": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12917/_83x83_c6c46d2fbbcfae4e802f.jpg"
+          },
+          "_60x60": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12917/_60x60_c6c46d2fbbcfae4e802f.jpg"
+          },
+          "_45x45": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12917/_45x45_c6c46d2fbbcfae4e802f.jpg"
+          },
+          "_30x30": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12917/_30x30_c6c46d2fbbcfae4e802f.jpg"
+          }
+        },
+        "uuid": "7ed78b40-3e73-0130-73dd-12313d00cdfe",
+        "latitude": null,
+        "longitude": null,
+        "updated_at": "2013-01-31T17:45:57Z",
+        "_links": {
+          "self": {
+            "href": "https://core.woofound.com/sliders/2/entities/12917"
+          }
+        },
+        "blend": "P",
+        "green": "false",
+        "active": "true",
+        "bright": "false",
+        "min_edu": "High School Diploma",
+        "colleges": "[{\"name\":\"Bryant & Stratton College\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/bryant__stratton_college.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_bryant__stratton_college.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_bryant__stratton_college.jpg\"},\"website\":\"http://www.bryantstratton.edu/\",\"twitter\":\"@bryantstratton\",\"facebook\":\"https://www.facebook.com/bryantandstratton\",\"linkedin\":\"http://www.linkedin.com/company/14469\"},{\"name\":\"Everest College\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/everest_college.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_everest_college.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_everest_college.jpg\"},\"website\":\"http://www.new.everest.edu/\",\"twitter\":\"@everest_college\",\"facebook\":\"https://www.facebook.com/Everest\",\"linkedin\":null},{\"name\":\"Baker College Online\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/baker_college_online.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_baker_college_online.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_baker_college_online.jpg\"},\"website\":\"http://www.bakercollegeonline.com/\",\"twitter\":\"@bakeronline\",\"facebook\":\"https://www.facebook.com/bakeronline\",\"linkedin\":\"http://www.linkedin.com/company/16519?trk=tyah\"},{\"name\":\"DeVry University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/devry_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_devry_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_devry_university.jpg\"},\"website\":\"http://www.devry.edu/\",\"twitter\":\"@devryuniv\",\"facebook\":\"https://www.facebook.com/DEVRYUNIVERSITY?v=wall\",\"linkedin\":\"http://www.linkedin.com/groups?gid=36138&trk=anetsrch_name&goback=.gdr_1258641799789_1\"},{\"name\":\"University of Phoenix\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/university_of_phoenix.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_university_of_phoenix.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_university_of_phoenix.jpg\"},\"website\":\"http://www.phoenix.edu/\",\"twitter\":\"@uopx\",\"facebook\":\"https://www.facebook.com/universityofphoenix\",\"linkedin\":\"http://www.linkedin.com/company/university-of-phoenix\"}]",
+        "onet_link": "http://www.onetonline.org/link/summary/43-4021.00",
+        "avg_salary": "$30,000-40,000",
+        "businesses": "[{\"name\":\"University of Kentucky\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/university_of_kentucky.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_university_of_kentucky.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_university_of_kentucky.jpg\"},\"website\":\"http://www.uky.edu/\",\"twitter\":\"@universityofky\",\"facebook\":\"https://www.facebook.com/universityofky\",\"linkedin\":\"http://www.linkedin.com/company/5998?trk=tyah\"},{\"name\":\"U.S. Department of the Treasury\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/us_department_of_the_treasury.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_us_department_of_the_treasury.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_us_department_of_the_treasury.jpg\"},\"website\":\"http://www.treasury.gov/\",\"twitter\":\"@ustreasury\",\"facebook\":\"https://www.facebook.com/ustreasury\",\"linkedin\":\"http://www.linkedin.com/company/1757358?trk=tyah\"},{\"name\":\"The University of Utah\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/the_university_of_utah.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_the_university_of_utah.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_the_university_of_utah.jpg\"},\"website\":\"http://www.utah.edu/\",\"twitter\":\"@uutah\",\"facebook\":\"https://www.facebook.com/universityofutah\",\"linkedin\":\"http://www.linkedin.com/company/4888?trk=tyah\"},{\"name\":\"Cox Enterprises, Inc.\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/cox_enterprises,_inc.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_cox_enterprises,_inc.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_cox_enterprises,_inc.jpg\"},\"website\":\"http://www.coxenterprises.com/\",\"twitter\":\"@coxenterprises\",\"facebook\":\"https://www.facebook.com/CoxEnterprises\",\"linkedin\":\"http://www.linkedin.com/company/163234?trk=tyah\"},{\"name\":\"The GEO Group\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/the_geo_group.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_the_geo_group.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_the_geo_group.jpg\"},\"website\":\"http://www.geogroup.com/\",\"twitter\":\"@thegeogroupcorp\",\"facebook\":\"https://www.facebook.com/GEOGroup\",\"linkedin\":\"http://www.linkedin.com/company/47738?trk=tyah\"}]",
+        "description": "Compose letters or electronic correspondence in reply to requests for merchandise, damage claims, credit and other information, delinquent accounts, incorrect billings, or unsatisfactory services. Duties may include gathering data to formulate reply and preparing correspondence.",
+        "growth_rate": "Declining"
+      },
+      {
+        "name": "Broadcast News Analyst",
+        "image": {
+          "url": "https://core-production.s3.amazonaws.com/images/entity/12918/0fe57b11e8437323d9f5.jpg",
+          "_640x640": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12918/_640x640_0fe57b11e8437323d9f5.jpg"
+          },
+          "_506x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12918/_506x540_0fe57b11e8437323d9f5.jpg"
+          },
+          "_480x208": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12918/_480x208_0fe57b11e8437323d9f5.jpg"
+          },
+          "_320x320": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12918/_320x320_0fe57b11e8437323d9f5.jpg"
+          },
+          "_306x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12918/_306x540_0fe57b11e8437323d9f5.jpg"
+          },
+          "_300x300": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12918/_300x300_0fe57b11e8437323d9f5.jpg"
+          },
+          "_260x260": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12918/_260x260_0fe57b11e8437323d9f5.jpg"
+          },
+          "_253x270": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12918/_253x270_0fe57b11e8437323d9f5.jpg"
+          },
+          "_240x104": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12918/_240x104_0fe57b11e8437323d9f5.jpg"
+          },
+          "_166x166": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12918/_166x166_0fe57b11e8437323d9f5.jpg"
+          },
+          "_150x150": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12918/_150x150_0fe57b11e8437323d9f5.jpg"
+          },
+          "_120x120": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12918/_120x120_0fe57b11e8437323d9f5.jpg"
+          },
+          "_90x90": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12918/_90x90_0fe57b11e8437323d9f5.jpg"
+          },
+          "_83x83": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12918/_83x83_0fe57b11e8437323d9f5.jpg"
+          },
+          "_60x60": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12918/_60x60_0fe57b11e8437323d9f5.jpg"
+          },
+          "_45x45": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12918/_45x45_0fe57b11e8437323d9f5.jpg"
+          },
+          "_30x30": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12918/_30x30_0fe57b11e8437323d9f5.jpg"
+          }
+        },
+        "uuid": "83001060-3e73-0130-73dd-12313d00cdfe",
+        "latitude": null,
+        "longitude": null,
+        "updated_at": "2013-01-31T23:26:58Z",
+        "_links": {
+          "self": {
+            "href": "https://core.woofound.com/sliders/2/entities/12918"
+          }
+        },
+        "blend": "IVA",
+        "green": "false",
+        "active": "true",
+        "bright": "false",
+        "min_edu": "College Degree",
+        "colleges": "[{\"name\":\"International College of Broadcasting\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/default.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/_70x70_default.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/_50x50_default.jpg\"},\"website\":\"http://www.icbcollege.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/groups/117867661606832/?fref=ts\",\"linkedin\":null},{\"name\":\"State University of New York at Oswego\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/state_university_of_new_york_at_oswego.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_state_university_of_new_york_at_oswego.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_state_university_of_new_york_at_oswego.jpg\"},\"website\":\"http://www.oswego.edu/\",\"twitter\":\"@sunyoswego\",\"facebook\":\"https://www.facebook.com/SUNYOswego\",\"linkedin\":\"http://www.linkedin.com/company/24300?trk=tyah\"},{\"name\":\"Brown Mackie College--Louisville\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/brown_mackie_college--louisville.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_brown_mackie_college--louisville.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_brown_mackie_college--louisville.jpg\"},\"website\":\"http://www.brownmackie.edu/louisville.aspx\",\"twitter\":\"@mybrownmackie\",\"facebook\":\"https://www.facebook.com/pages/Brown-Mackie-College-Louisville/120472914630582?fref=ts\",\"linkedin\":null},{\"name\":\"Emerson College\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/emerson_college.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_emerson_college.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_emerson_college.jpg\"},\"website\":\"http://www.emerson.edu/\",\"twitter\":\"@emersoncollege\",\"facebook\":\"https://www.facebook.com/EmersonCollege\",\"linkedin\":\"http://www.linkedin.com/company/emerson-college\"},{\"name\":\"Columbia College Chicago\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/columbia_college_chicago.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_columbia_college_chicago.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_columbia_college_chicago.jpg\"},\"website\":\"http://www.colum.edu/\",\"twitter\":\"@columbiacollchi\",\"facebook\":\"https://www.facebook.com/columbiacollegechicago\",\"linkedin\":\"http://www.linkedin.com/company/7583?trk=tyah\"}]",
+        "onet_link": "http://www.onetonline.org/link/summary/27-3021.00",
+        "avg_salary": "$50,000-60,000",
+        "businesses": "[{\"name\":\"NBC News\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/nbc_news.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_nbc_news.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_nbc_news.jpg\"},\"website\":\"http://www.nbcnews.com/\",\"twitter\":\"@nbcnews\",\"facebook\":\"https://www.facebook.com/NBCNews\",\"linkedin\":\"http://www.linkedin.com/company/1827?trk=tyah\"},{\"name\":\"Fox News\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/fox_news.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_fox_news.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_fox_news.jpg\"},\"website\":\"http://www.foxnews.com/\",\"twitter\":\"@foxnews\",\"facebook\":\"https://www.facebook.com/FoxNews\",\"linkedin\":\"http://www.linkedin.com/company/163884?trk=tyah\"},{\"name\":\"ABC News\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/abc_news.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_abc_news.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_abc_news.jpg\"},\"website\":\"http://abcnews.go.com/\",\"twitter\":\"@abc\",\"facebook\":\"https://www.facebook.com/abcnews\",\"linkedin\":\"http://www.linkedin.com/company/3907?trk=tyah\"},{\"name\":\"CNN\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/cnn.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_cnn.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_cnn.jpg\"},\"website\":\"http://www.cnn.com/\",\"twitter\":\"@cnn\",\"facebook\":\"https://www.facebook.com/cnn?fref=ts\",\"linkedin\":\"http://www.linkedin.com/company/2046?trk=tyah\"},{\"name\":\"CBS News\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/cbs_news.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_cbs_news.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_cbs_news.jpg\"},\"website\":\"http://www.cbsnews.com/\",\"twitter\":\"@cbsnews\",\"facebook\":\"https://www.facebook.com/CBSNews\",\"linkedin\":\"http://www.linkedin.com/company/7246?trk=tyah\"}]",
+        "description": "Analyze, interpret, and broadcast news received from various sources.",
+        "growth_rate": "10-19%"
+      },
+      {
+        "name": "Sports Official",
+        "image": {
+          "url": "https://core-production.s3.amazonaws.com/images/entity/12919/7071596ffb99df465056.jpg",
+          "_640x640": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12919/_640x640_7071596ffb99df465056.jpg"
+          },
+          "_506x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12919/_506x540_7071596ffb99df465056.jpg"
+          },
+          "_480x208": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12919/_480x208_7071596ffb99df465056.jpg"
+          },
+          "_320x320": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12919/_320x320_7071596ffb99df465056.jpg"
+          },
+          "_306x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12919/_306x540_7071596ffb99df465056.jpg"
+          },
+          "_300x300": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12919/_300x300_7071596ffb99df465056.jpg"
+          },
+          "_260x260": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12919/_260x260_7071596ffb99df465056.jpg"
+          },
+          "_253x270": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12919/_253x270_7071596ffb99df465056.jpg"
+          },
+          "_240x104": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12919/_240x104_7071596ffb99df465056.jpg"
+          },
+          "_166x166": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12919/_166x166_7071596ffb99df465056.jpg"
+          },
+          "_150x150": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12919/_150x150_7071596ffb99df465056.jpg"
+          },
+          "_120x120": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12919/_120x120_7071596ffb99df465056.jpg"
+          },
+          "_90x90": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12919/_90x90_7071596ffb99df465056.jpg"
+          },
+          "_83x83": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12919/_83x83_7071596ffb99df465056.jpg"
+          },
+          "_60x60": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12919/_60x60_7071596ffb99df465056.jpg"
+          },
+          "_45x45": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12919/_45x45_7071596ffb99df465056.jpg"
+          },
+          "_30x30": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12919/_30x30_7071596ffb99df465056.jpg"
+          }
+        },
+        "uuid": "8618b880-3e73-0130-73dd-12313d00cdfe",
+        "latitude": null,
+        "longitude": null,
+        "updated_at": "2013-01-31T23:15:53Z",
+        "_links": {
+          "self": {
+            "href": "https://core.woofound.com/sliders/2/entities/12919"
+          }
+        },
+        "blend": "TVP",
+        "green": "false",
+        "active": "true",
+        "bright": "false",
+        "min_edu": "High School Diploma",
+        "colleges": "[{\"name\":\"University of Florida\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/university_of_florida.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_university_of_florida.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_university_of_florida.jpg\"},\"website\":\"http://www.ufl.edu/\",\"twitter\":\"@uflorida\",\"facebook\":\"https://www.facebook.com/uflorida\",\"linkedin\":\"http://www.linkedin.com/company/4282?trk=tyah\"},{\"name\":\"University of Georgia\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/university_of_georgia.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_university_of_georgia.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_university_of_georgia.jpg\"},\"website\":\"http://www.uga.edu/\",\"twitter\":\"@universityofga\",\"facebook\":\"https://www.facebook.com/uga.edu\",\"linkedin\":\"http://www.linkedin.com/company/166638?trk=tyah\"},{\"name\":\"Indiana University--Bloomington\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/indiana_university--bloomington.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_indiana_university--bloomington.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_indiana_university--bloomington.jpg\"},\"website\":\"http://www.iub.edu/\",\"twitter\":\"@iubloomington\",\"facebook\":\"https://www.facebook.com/IndianaUniversity\",\"linkedin\":\"http://www.linkedin.com/company/3325?trk=tyah\"},{\"name\":\"University of Kansas\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/university_of_kansas.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_university_of_kansas.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_university_of_kansas.jpg\"},\"website\":\"http://www.ku.edu/\",\"twitter\":\"@kunews\",\"facebook\":\"https://www.facebook.com/KU\",\"linkedin\":\"http://www.linkedin.com/company/166643?trk=tyah\"},{\"name\":\"University of Maryland--College Park\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/university_of_maryland--college_park.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_university_of_maryland--college_park.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_university_of_maryland--college_park.jpg\"},\"website\":\"http://www.umd.edu/\",\"twitter\":\"@uofmaryland\",\"facebook\":\"https://www.facebook.com/UnivofMaryland\",\"linkedin\":\"http://www.linkedin.com/company/3638?trk=tyah\"}]",
+        "onet_link": "http://www.onetonline.org/link/summary/27-2023.00",
+        "avg_salary": "$20,000-30,000",
+        "businesses": "[{\"name\":\"National Basketball Association\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/national_basketball_association.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_national_basketball_association.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_national_basketball_association.jpg\"},\"website\":\"http://www.nba.com\",\"twitter\":\"@nba\",\"facebook\":\"https://www.facebook.com/nba?fref=ts\",\"linkedin\":\"http://www.linkedin.com/company/165125?trk=tyah\"},{\"name\":\"National Football League\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/national_football_league.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_national_football_league.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_national_football_league.jpg\"},\"website\":\"http://www.nfl.com/\",\"twitter\":\"@nfl\",\"facebook\":\"https://www.facebook.com/NFL?fref=ts\",\"linkedin\":\"http://www.linkedin.com/company/4541?trk=tyah\"},{\"name\":\"National Hockey League\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/national_hockey_league.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_national_hockey_league.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_national_hockey_league.jpg\"},\"website\":\"http://www.nhl.com/\",\"twitter\":\"@nhl\",\"facebook\":\"https://www.facebook.com/NHL?v=app_158110558259\",\"linkedin\":\"http://www.linkedin.com/company/8882?trk=tyah\"},{\"name\":\"Major League Baseball\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/major_league_baseball.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_major_league_baseball.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_major_league_baseball.jpg\"},\"website\":\"http://www.mlb.com\",\"twitter\":\"@mlb\",\"facebook\":\"https://www.facebook.com/mlb\",\"linkedin\":\"http://www.linkedin.com/company/164826?trk=tyah\"},{\"name\":\"U.S. Soccer\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/us_soccer.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_us_soccer.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_us_soccer.jpg\"},\"website\":\"http://www.ussoccer.com/\",\"twitter\":\"@ussoccer\",\"facebook\":\"https://www.facebook.com/officialussoccer\",\"linkedin\":null}]",
+        "description": "Officiate at competitive athletic or sporting events. Detect infractions of rules and decide penalties according to established regulations. Includes all sporting officials, referees, and competition judges.",
+        "growth_rate": "20-28%"
+      },
+      {
+        "name": "Ticket Agent and Travel Clerk",
+        "image": {
+          "url": "https://core-production.s3.amazonaws.com/images/entity/12920/66a3e42e800aa6ac3803.jpg",
+          "_640x640": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12920/_640x640_66a3e42e800aa6ac3803.jpg"
+          },
+          "_506x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12920/_506x540_66a3e42e800aa6ac3803.jpg"
+          },
+          "_480x208": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12920/_480x208_66a3e42e800aa6ac3803.jpg"
+          },
+          "_320x320": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12920/_320x320_66a3e42e800aa6ac3803.jpg"
+          },
+          "_306x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12920/_306x540_66a3e42e800aa6ac3803.jpg"
+          },
+          "_300x300": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12920/_300x300_66a3e42e800aa6ac3803.jpg"
+          },
+          "_260x260": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12920/_260x260_66a3e42e800aa6ac3803.jpg"
+          },
+          "_253x270": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12920/_253x270_66a3e42e800aa6ac3803.jpg"
+          },
+          "_240x104": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12920/_240x104_66a3e42e800aa6ac3803.jpg"
+          },
+          "_166x166": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12920/_166x166_66a3e42e800aa6ac3803.jpg"
+          },
+          "_150x150": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12920/_150x150_66a3e42e800aa6ac3803.jpg"
+          },
+          "_120x120": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12920/_120x120_66a3e42e800aa6ac3803.jpg"
+          },
+          "_90x90": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12920/_90x90_66a3e42e800aa6ac3803.jpg"
+          },
+          "_83x83": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12920/_83x83_66a3e42e800aa6ac3803.jpg"
+          },
+          "_60x60": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12920/_60x60_66a3e42e800aa6ac3803.jpg"
+          },
+          "_45x45": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12920/_45x45_66a3e42e800aa6ac3803.jpg"
+          },
+          "_30x30": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12920/_30x30_66a3e42e800aa6ac3803.jpg"
+          }
+        },
+        "uuid": "88e5c250-3e73-0130-73dd-12313d00cdfe",
+        "latitude": null,
+        "longitude": null,
+        "updated_at": "2013-01-31T20:21:36Z",
+        "_links": {
+          "self": {
+            "href": "https://core.woofound.com/sliders/2/entities/12920"
+          }
+        },
+        "blend": "PM",
+        "green": "false",
+        "active": "true",
+        "bright": "false",
+        "min_edu": "High School Diploma",
+        "colleges": "[{\"name\":\"University of Phoenix\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/university_of_phoenix.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_university_of_phoenix.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_university_of_phoenix.jpg\"},\"website\":\"http://www.phoenix.edu/\",\"twitter\":\"@uopx\",\"facebook\":\"https://www.facebook.com/universityofphoenix\",\"linkedin\":\"http://www.linkedin.com/company/university-of-phoenix\"},{\"name\":\"Capella University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/capella_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_capella_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_capella_university.jpg\"},\"website\":\"http://www.capella.edu/\",\"twitter\":\"@capellau\",\"facebook\":\"https://www.facebook.com/CapellaUniversity\",\"linkedin\":\"http://www.linkedin.com/groups/Capella-University-Open-Forum-official-95497?mostPopular=&gid=95497\"},{\"name\":\"Colorado Technical University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/colorado_technical_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_colorado_technical_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_colorado_technical_university.jpg\"},\"website\":\"http://www.coloradotech.edu/\",\"twitter\":\"@ctuniversity\",\"facebook\":\"https://www.facebook.com/coloradotech\",\"linkedin\":\"http://www.linkedin.com/company/16851?trk=tyah\"},{\"name\":\"South University Online\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/south_university_online.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_south_university_online.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_south_university_online.jpg\"},\"website\":\"http://online.southuniversity.edu/\",\"twitter\":\"@sucampuscommon\",\"facebook\":\"https://www.facebook.com/SuCampusCommon\",\"linkedin\":\"http://www.linkedin.com/company/166065?trk=tyah\"},{\"name\":\"Liberty University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/liberty_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_liberty_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_liberty_university.jpg\"},\"website\":\"http://www.liberty.edu/\",\"twitter\":\"@libertyu\",\"facebook\":\"https://www.facebook.com/LibertyUniversity\",\"linkedin\":\"http://www.linkedin.com/company/9654?trk=tyah\"}]",
+        "onet_link": "http://www.onetonline.org/link/summary/43-4181.00",
+        "avg_salary": "$30,000-40,000",
+        "businesses": "[{\"name\":\"Hartsfield-Jackson Atlanta International Airport\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/hartsfield-jackson_atlanta_international_airport.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_hartsfield-jackson_atlanta_international_airport.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_hartsfield-jackson_atlanta_international_airport.jpg\"},\"website\":\"http://www.atlanta-airport.com/\",\"twitter\":\"@atlanta_airport\",\"facebook\":\"https://www.facebook.com/hartsfieldjackson\",\"linkedin\":\"http://www.linkedin.com/groups/HartsfieldJackson-Atlanta-International-Airport-Networking-4614191?gid=4614191&mostPopular=&trk=tyah\"},{\"name\":\"Chicago O'Hare International Airport\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/chicago_o'hare_international_airport.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_chicago_o'hare_international_airport.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_chicago_o'hare_international_airport.jpg\"},\"website\":\"http://www.flychicago.com/\",\"twitter\":\"@fly2ohare\",\"facebook\":\"https://www.facebook.com/ohareairport\",\"linkedin\":null},{\"name\":\"Los Angeles International Airport\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/los_angeles_international_airport.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_los_angeles_international_airport.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_los_angeles_international_airport.jpg\"},\"website\":\"http://www.lawa.org/\",\"twitter\":\"@lax_official\",\"facebook\":\"https://www.facebook.com/LAInternationalAirport\",\"linkedin\":null},{\"name\":\"Dallas/Fort Worth International Airport\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/dallas_fort_worth_international_airport.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_dallas_fort_worth_international_airport.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_dallas_fort_worth_international_airport.jpg\"},\"website\":\"http://www.dfwairport.com/\",\"twitter\":\"@dfwairport\",\"facebook\":\"https://www.facebook.com/DFWAirport\",\"linkedin\":null},{\"name\":\"Denver International Airport\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/denver_international_airport.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_denver_international_airport.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_denver_international_airport.jpg\"},\"website\":\"http://www.flydenver.com/\",\"twitter\":\"@denairport\",\"facebook\":\"https://www.facebook.com/denverinternationalairport\",\"linkedin\":\"http://www.linkedin.com/company/40333?trk=tyah\"}]",
+        "description": "Make and confirm reservations for transportation or lodging, or sell transportation tickets. May check baggage and direct passengers to designated concourse, pier, or track; deliver tickets, contact individuals and groups to inform them of package tours; or provide tourists with travel or transportation information.",
+        "growth_rate": "0-9%"
+      },
+      {
+        "name": "Bill and Account Collector",
+        "image": {
+          "url": "https://core-production.s3.amazonaws.com/images/entity/12921/ea3138fb9a2e0bedf514.jpg",
+          "_640x640": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12921/_640x640_ea3138fb9a2e0bedf514.jpg"
+          },
+          "_506x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12921/_506x540_ea3138fb9a2e0bedf514.jpg"
+          },
+          "_480x208": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12921/_480x208_ea3138fb9a2e0bedf514.jpg"
+          },
+          "_320x320": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12921/_320x320_ea3138fb9a2e0bedf514.jpg"
+          },
+          "_306x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12921/_306x540_ea3138fb9a2e0bedf514.jpg"
+          },
+          "_300x300": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12921/_300x300_ea3138fb9a2e0bedf514.jpg"
+          },
+          "_260x260": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12921/_260x260_ea3138fb9a2e0bedf514.jpg"
+          },
+          "_253x270": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12921/_253x270_ea3138fb9a2e0bedf514.jpg"
+          },
+          "_240x104": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12921/_240x104_ea3138fb9a2e0bedf514.jpg"
+          },
+          "_166x166": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12921/_166x166_ea3138fb9a2e0bedf514.jpg"
+          },
+          "_150x150": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12921/_150x150_ea3138fb9a2e0bedf514.jpg"
+          },
+          "_120x120": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12921/_120x120_ea3138fb9a2e0bedf514.jpg"
+          },
+          "_90x90": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12921/_90x90_ea3138fb9a2e0bedf514.jpg"
+          },
+          "_83x83": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12921/_83x83_ea3138fb9a2e0bedf514.jpg"
+          },
+          "_60x60": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12921/_60x60_ea3138fb9a2e0bedf514.jpg"
+          },
+          "_45x45": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12921/_45x45_ea3138fb9a2e0bedf514.jpg"
+          },
+          "_30x30": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12921/_30x30_ea3138fb9a2e0bedf514.jpg"
+          }
+        },
+        "uuid": "8b850bc0-3e73-0130-73dd-12313d00cdfe",
+        "latitude": null,
+        "longitude": null,
+        "updated_at": "2013-01-31T17:12:35Z",
+        "_links": {
+          "self": {
+            "href": "https://core.woofound.com/sliders/2/entities/12921"
+          }
+        },
+        "blend": "PV",
+        "green": "false",
+        "active": "true",
+        "bright": "true",
+        "min_edu": "High School Diploma",
+        "colleges": "[{\"name\":\"University of Pennsylvania\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/university_of_pennsylvania.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_university_of_pennsylvania.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_university_of_pennsylvania.jpg\"},\"website\":\"http://www.upenn.edu/\",\"twitter\":\"@uofpenn\",\"facebook\":\"https://www.facebook.com/UnivPennsylvania\",\"linkedin\":\"http://www.linkedin.com/company/university-of-pennsylvania\"},{\"name\":\"New York University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/new_york_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_new_york_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_new_york_university.jpg\"},\"website\":\"http://www.nyu.edu/\",\"twitter\":\"@nyulocal\",\"facebook\":\"https://www.facebook.com/pages/New-York-University/103256838688\",\"linkedin\":\"http://www.linkedin.com/company/3159?trk=tyah\"},{\"name\":\"University of California Berkeley\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/university_of_california_berkeley.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_university_of_california_berkeley.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_university_of_california_berkeley.jpg\"},\"website\":\"http://www.berkeley.edu/\",\"twitter\":\"@ucberkeley\",\"facebook\":\"https://www.facebook.com/UCBerkeley\",\"linkedin\":\"http://www.linkedin.com/company/2517?trk=tyah\"},{\"name\":\"Massachusetts Institute of Technology\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/massachusetts_institute_of_technology.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_massachusetts_institute_of_technology.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_massachusetts_institute_of_technology.jpg\"},\"website\":\"http://www.mit.edu/\",\"twitter\":\"@mitnews\",\"facebook\":\"https://www.facebook.com/MITnews\",\"linkedin\":\"http://www.linkedin.com/company/1503?trk=tyah\"},{\"name\":\"University of Michigan\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/university_of_michigan.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_university_of_michigan.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_university_of_michigan.jpg\"},\"website\":\"http://www.umich.edu/\",\"twitter\":\"@umich\",\"facebook\":\"https://www.facebook.com/universityofmichigan\",\"linkedin\":\"http://www.linkedin.com/company/2516?trk=tyah\"}]",
+        "onet_link": "http://www.onetonline.org/link/summary/43-3011.00",
+        "avg_salary": "$30,000-40,000",
+        "businesses": "[{\"name\":\"Rapid Recovery Solution\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/rapid_recovery_solution.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_rapid_recovery_solution.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_rapid_recovery_solution.jpg\"},\"website\":\"http://www.rapidrecoverysolution.com/\",\"twitter\":\"@rrscollects\",\"facebook\":\"https://www.facebook.com/pages/Rapid-Recovery-Solution-Inc/22439864072?ref=ts&fref=ts\",\"linkedin\":\"http://www.linkedin.com/company/550912?trk=tyah\"},{\"name\":\"Direct Recovery Assocaites\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/direct_recovery_assocaites.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_direct_recovery_assocaites.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_direct_recovery_assocaites.jpg\"},\"website\":\"http://www.directrecovery.com/\",\"twitter\":\"@directrecovery\",\"facebook\":\"https://www.facebook.com/DirectRecoveryAssociatesInc?fref=ts\",\"linkedin\":null},{\"name\":\"Caine & Weiner\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/caine__weiner.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_caine__weiner.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_caine__weiner.jpg\"},\"website\":\"http://www.caine-weiner.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/Caine-Weiner/200905089927588\",\"linkedin\":\"http://www.linkedin.com/company/caine-&-weiner\"},{\"name\":\"American Profit Recovery\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/american_profit_recovery.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_american_profit_recovery.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_american_profit_recovery.jpg\"},\"website\":\"http://www.americanprofit.net/\",\"twitter\":\"@americanprofit\",\"facebook\":\"https://www.facebook.com/AmericanProfitRecovery\",\"linkedin\":\"http://www.linkedin.com/company/american-profit-recovery\"},{\"name\":\"ACA International\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/aca_international.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_aca_international.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_aca_international.jpg\"},\"website\":\"http://www.acainternational.org/\",\"twitter\":\"@acaintl\",\"facebook\":\"https://www.facebook.com/pages/ACA-International-the-Association-of-Credit-and-Collection-Professionals/364138550290\",\"linkedin\":\"http://www.linkedin.com/groups/ACA-International-1900905?home=&gid=1900905\"}]",
+        "description": "Locate and notify customers of delinquent accounts by mail, telephone, or personal visit to solicit payment. Duties include receiving payment and posting amount to customer's account; preparing statements to credit department if customer fails to respond; initiating repossession proceedings or service disconnection; and keeping records of collection and status of accounts.",
+        "growth_rate": "10-19%"
+      },
+      {
+        "name": "Earth Driller",
+        "image": {
+          "url": "https://core-production.s3.amazonaws.com/images/entity/12922/8e68dcb00ce618bd275a.jpg",
+          "_640x640": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12922/_640x640_8e68dcb00ce618bd275a.jpg"
+          },
+          "_506x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12922/_506x540_8e68dcb00ce618bd275a.jpg"
+          },
+          "_480x208": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12922/_480x208_8e68dcb00ce618bd275a.jpg"
+          },
+          "_320x320": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12922/_320x320_8e68dcb00ce618bd275a.jpg"
+          },
+          "_306x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12922/_306x540_8e68dcb00ce618bd275a.jpg"
+          },
+          "_300x300": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12922/_300x300_8e68dcb00ce618bd275a.jpg"
+          },
+          "_260x260": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12922/_260x260_8e68dcb00ce618bd275a.jpg"
+          },
+          "_253x270": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12922/_253x270_8e68dcb00ce618bd275a.jpg"
+          },
+          "_240x104": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12922/_240x104_8e68dcb00ce618bd275a.jpg"
+          },
+          "_166x166": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12922/_166x166_8e68dcb00ce618bd275a.jpg"
+          },
+          "_150x150": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12922/_150x150_8e68dcb00ce618bd275a.jpg"
+          },
+          "_120x120": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12922/_120x120_8e68dcb00ce618bd275a.jpg"
+          },
+          "_90x90": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12922/_90x90_8e68dcb00ce618bd275a.jpg"
+          },
+          "_83x83": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12922/_83x83_8e68dcb00ce618bd275a.jpg"
+          },
+          "_60x60": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12922/_60x60_8e68dcb00ce618bd275a.jpg"
+          },
+          "_45x45": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12922/_45x45_8e68dcb00ce618bd275a.jpg"
+          },
+          "_30x30": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12922/_30x30_8e68dcb00ce618bd275a.jpg"
+          }
+        },
+        "uuid": "8e58b070-3e73-0130-73dd-12313d00cdfe",
+        "latitude": null,
+        "longitude": null,
+        "updated_at": "2013-01-31T18:00:42Z",
+        "_links": {
+          "self": {
+            "href": "https://core.woofound.com/sliders/2/entities/12922"
+          }
+        },
+        "blend": "T",
+        "green": "false",
+        "active": "true",
+        "bright": "false",
+        "min_edu": "High School Diploma",
+        "colleges": "[{\"name\":\"Roger Williams University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/roger_williams_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_roger_williams_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_roger_williams_university.jpg\"},\"website\":\"http://rwu.edu/\",\"twitter\":\"@myrwu\",\"facebook\":\"https://www.facebook.com/rogerwilliamsuniversity\",\"linkedin\":\"http://www.linkedin.com/company/19341?trk=tyah\"},{\"name\":\"Institue of Design and Construction\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/institue_of_design_and_construction.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_institue_of_design_and_construction.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_institue_of_design_and_construction.jpg\"},\"website\":\"http://www.idc.edu/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/Institute-of-Design-and-Construction/51385579135\",\"linkedin\":null},{\"name\":\"Brazosport College\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/brazosport_college.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_brazosport_college.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_brazosport_college.jpg\"},\"website\":\"http://www.brazosport.edu/\",\"twitter\":\"@bcgators\",\"facebook\":\"https://www.facebook.com/BrazosportCollege\",\"linkedin\":\"http://www.linkedin.com/company/72719?trk=tyah\"},{\"name\":\"Pratt Institute\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/pratt_institute.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_pratt_institute.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_pratt_institute.jpg\"},\"website\":\"http://www.pratt.edu/\",\"twitter\":\"@prattinstitute\",\"facebook\":\"https://www.facebook.com/PrattInstitute\",\"linkedin\":\"http://www.linkedin.com/groups?gid=95605\"},{\"name\":\"East Carolina University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/east_carolina_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_east_carolina_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_east_carolina_university.jpg\"},\"website\":\"http://www.ecu.edu/\",\"twitter\":\"@eastcarolina\",\"facebook\":\"https://www.facebook.com/EastCarolina\",\"linkedin\":\"http://www.linkedin.com/company/7522?trk=tyah\"}]",
+        "onet_link": "http://www.onetonline.org/link/summary/47-5021.00",
+        "avg_salary": "$40,000-50,000",
+        "businesses": "[{\"name\":\"Aaron Enterprises Incorporated\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/aaron_enterprises_incorporated.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_aaron_enterprises_incorporated.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_aaron_enterprises_incorporated.jpg\"},\"website\":\"http://aaronenterprises.iarbiz.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/Aaron-Enterprises-Incorporated/134821436531977?fref=ts\",\"linkedin\":null},{\"name\":\"Atlantic Concrete Cutting\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/atlantic_concrete_cutting.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_atlantic_concrete_cutting.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_atlantic_concrete_cutting.jpg\"},\"website\":\"http://www.atlanticconcretecutting.com/Services/Diamond-Core-Drilling.aspx?gclid=CKjBvYnRkrQCFcFxOgodXC0Ayg\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/Atlantic-Concrete-Cutting/194969806127?fref=ts\",\"linkedin\":\"http://www.linkedin.com/company/1763065?trk=tyah\"},{\"name\":\"Bruce H. Gallup, Inc.\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/bruce_h_gallup,_inc.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_bruce_h_gallup,_inc.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_bruce_h_gallup,_inc.jpg\"},\"website\":\"http://www.brucegallup.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/Bruce-H-Gallup-Inc/393824960680852?fref=ts\",\"linkedin\":null},{\"name\":\"Michael Barlow Well Services\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/michael_barlow_well_services.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_michael_barlow_well_services.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_michael_barlow_well_services.jpg\"},\"website\":\"http://www.michaelbarlowwelldrilling.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/Michael-Barlow-Well-Drilling-Service-Inc/269459283078686?fref=ts\",\"linkedin\":null},{\"name\":\"Allied Geothermal Well Drilling\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/allied_geothermal_well_drilling.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_allied_geothermal_well_drilling.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_allied_geothermal_well_drilling.jpg\"},\"website\":\"http://www.alliedwells.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/Allied-Well-Drilling/298621314727\",\"linkedin\":null}]",
+        "description": "Operate a variety of drills such as rotary, churn, and pneumatic to tap sub-surface water and salt deposits, to remove core samples during mineral exploration or soil testing, and to facilitate the use of explosives in mining or construction. May use explosives. Includes horizontal and earth boring machine operators.",
+        "growth_rate": "Declining"
+      },
+      {
+        "name": "Brickmason and Blockmason",
+        "image": {
+          "url": "https://core-production.s3.amazonaws.com/images/entity/12923/88cff7773b2e35b71013.jpg",
+          "_640x640": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12923/_640x640_88cff7773b2e35b71013.jpg"
+          },
+          "_506x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12923/_506x540_88cff7773b2e35b71013.jpg"
+          },
+          "_480x208": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12923/_480x208_88cff7773b2e35b71013.jpg"
+          },
+          "_320x320": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12923/_320x320_88cff7773b2e35b71013.jpg"
+          },
+          "_306x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12923/_306x540_88cff7773b2e35b71013.jpg"
+          },
+          "_300x300": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12923/_300x300_88cff7773b2e35b71013.jpg"
+          },
+          "_260x260": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12923/_260x260_88cff7773b2e35b71013.jpg"
+          },
+          "_253x270": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12923/_253x270_88cff7773b2e35b71013.jpg"
+          },
+          "_240x104": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12923/_240x104_88cff7773b2e35b71013.jpg"
+          },
+          "_166x166": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12923/_166x166_88cff7773b2e35b71013.jpg"
+          },
+          "_150x150": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12923/_150x150_88cff7773b2e35b71013.jpg"
+          },
+          "_120x120": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12923/_120x120_88cff7773b2e35b71013.jpg"
+          },
+          "_90x90": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12923/_90x90_88cff7773b2e35b71013.jpg"
+          },
+          "_83x83": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12923/_83x83_88cff7773b2e35b71013.jpg"
+          },
+          "_60x60": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12923/_60x60_88cff7773b2e35b71013.jpg"
+          },
+          "_45x45": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12923/_45x45_88cff7773b2e35b71013.jpg"
+          },
+          "_30x30": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12923/_30x30_88cff7773b2e35b71013.jpg"
+          }
+        },
+        "uuid": "90e12010-3e73-0130-73dd-12313d00cdfe",
+        "latitude": null,
+        "longitude": null,
+        "updated_at": "2013-01-31T17:36:35Z",
+        "_links": {
+          "self": {
+            "href": "https://core.woofound.com/sliders/2/entities/12923"
+          }
+        },
+        "blend": "TP",
+        "green": "false",
+        "active": "true",
+        "bright": "true",
+        "min_edu": "High School Diploma",
+        "colleges": "[{\"name\":\"Salt Lake Community College\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/salt_lake_community_college.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_salt_lake_community_college.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_salt_lake_community_college.jpg\"},\"website\":\"http://www.slcc.edu/\",\"twitter\":\"@saltlakecc\",\"facebook\":\"https://www.facebook.com/SaltLakeCommunityCollege?fref=ts\",\"linkedin\":\"http://www.linkedin.com/groups/Salt-Lake-Community-College-Alumni-1930462?gid=1930462&mostPopular=&trk=tyah\"},{\"name\":\"Palomar College\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/palomar_college.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_palomar_college.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_palomar_college.jpg\"},\"website\":\"http://www.palomar.edu/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/palomarcollege?fref=ts\",\"linkedin\":\"http://www.linkedin.com/company/19930?trk=tyah\"},{\"name\":\"Orange Coast College\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/orange_coast_college.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_orange_coast_college.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_orange_coast_college.jpg\"},\"website\":\"http://www.orangecoastcollege.edu/\",\"twitter\":\"@orangecoast\",\"facebook\":\"https://www.facebook.com/orangecoastcollege\",\"linkedin\":\"http://www.linkedin.com/company/23933?trk=tyah\"},{\"name\":\"Masonry Association of Florida, Inc.\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/masonry_association_of_florida,_inc.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_masonry_association_of_florida,_inc.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_masonry_association_of_florida,_inc.jpg\"},\"website\":\"www.floridamasonry.com\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/Masonry-Association-of-Florida-Treasure-Coast-Chapter/109732349044362\",\"linkedin\":\"http://www.linkedin.com/company/726913?trk=tyah\"},{\"name\":\"Milwaukee Area Technical College\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/milwaukee_area_technical_college.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_milwaukee_area_technical_college.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_milwaukee_area_technical_college.jpg\"},\"website\":\"http://www.matc.edu/\",\"twitter\":\"@discovermatc\",\"facebook\":\"https://www.facebook.com/MilwAreaTechCollege?fref=ts\",\"linkedin\":\"http://www.linkedin.com/company/22647?trk=tyah\"}]",
+        "onet_link": "http://www.onetonline.org/link/summary/47-2021.00",
+        "avg_salary": "$40,000-50,000",
+        "businesses": "[{\"name\":\"JF Enterprises\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/jf_enterprises.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_jf_enterprises.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_jf_enterprises.jpg\"},\"website\":\"http://jfenterprisesllc.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/JF-enterprises-Construction-Landscaping/183196548393188?fref=ts\",\"linkedin\":null},{\"name\":\"Custom Stoneworks and Design\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/custom_stoneworks_and_design.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_custom_stoneworks_and_design.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_custom_stoneworks_and_design.jpg\"},\"website\":\"http://www.stoneworksdesign.com/\",\"twitter\":\"@paverswallsmd\",\"facebook\":\"https://www.facebook.com/pages/Custom-Stoneworks-Design-Inc/166681093363154\",\"linkedin\":null},{\"name\":\"Color Match Masonry\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/color_match_masonry.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_color_match_masonry.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_color_match_masonry.jpg\"},\"website\":\"http://www.brickstain.com/\",\"twitter\":\"@colormatchmason\",\"facebook\":\"https://www.facebook.com/MASONRYSTAIN?fref=ts\",\"linkedin\":\"http://www.linkedin.com/company/2485516?trk=tyah\"},{\"name\":\"AP Eberlein Company\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/ap_eberlein_company.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_ap_eberlein_company.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_ap_eberlein_company.jpg\"},\"website\":\"http://eberleincompany.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/AP-Eberlein-Company-Inc/111131415591899?fref=ts\",\"linkedin\":null},{\"name\":\"Flawless Masonry\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/flawless_masonry.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_flawless_masonry.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_flawless_masonry.jpg\"},\"website\":\"http://flawlessmasonry.com/\",\"twitter\":\"@flawlessmasonry\",\"facebook\":\"https://www.facebook.com/flawless.masonry.1?fref=ts\",\"linkedin\":null}]",
+        "description": "Lay and bind building materials, such as brick, structural tile, concrete block, cinder block, glass block, and terra-cotta block, with mortar and other substances to construct or repair walls, partitions, arches, sewers, and other structures.",
+        "growth_rate": "Over 29%"
+      },
+      {
+        "name": "Electrical Equipment Installer",
+        "image": {
+          "url": "https://core-production.s3.amazonaws.com/images/entity/12924/c0a2fee942b7755286f9.jpg",
+          "_640x640": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12924/_640x640_c0a2fee942b7755286f9.jpg"
+          },
+          "_506x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12924/_506x540_c0a2fee942b7755286f9.jpg"
+          },
+          "_480x208": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12924/_480x208_c0a2fee942b7755286f9.jpg"
+          },
+          "_320x320": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12924/_320x320_c0a2fee942b7755286f9.jpg"
+          },
+          "_306x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12924/_306x540_c0a2fee942b7755286f9.jpg"
+          },
+          "_300x300": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12924/_300x300_c0a2fee942b7755286f9.jpg"
+          },
+          "_260x260": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12924/_260x260_c0a2fee942b7755286f9.jpg"
+          },
+          "_253x270": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12924/_253x270_c0a2fee942b7755286f9.jpg"
+          },
+          "_240x104": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12924/_240x104_c0a2fee942b7755286f9.jpg"
+          },
+          "_166x166": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12924/_166x166_c0a2fee942b7755286f9.jpg"
+          },
+          "_150x150": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12924/_150x150_c0a2fee942b7755286f9.jpg"
+          },
+          "_120x120": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12924/_120x120_c0a2fee942b7755286f9.jpg"
+          },
+          "_90x90": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12924/_90x90_c0a2fee942b7755286f9.jpg"
+          },
+          "_83x83": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12924/_83x83_c0a2fee942b7755286f9.jpg"
+          },
+          "_60x60": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12924/_60x60_c0a2fee942b7755286f9.jpg"
+          },
+          "_45x45": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12924/_45x45_c0a2fee942b7755286f9.jpg"
+          },
+          "_30x30": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12924/_30x30_c0a2fee942b7755286f9.jpg"
+          }
+        },
+        "uuid": "937b7ea0-3e73-0130-73dd-12313d00cdfe",
+        "latitude": null,
+        "longitude": null,
+        "updated_at": "2013-01-31T18:01:08Z",
+        "_links": {
+          "self": {
+            "href": "https://core.woofound.com/sliders/2/entities/12924"
+          }
+        },
+        "blend": "TPA",
+        "green": "true",
+        "active": "true",
+        "bright": "false",
+        "min_edu": "High School Diploma",
+        "colleges": "[{\"name\":\"Massachusetts Institute of Technology\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/massachusetts_institute_of_technology.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_massachusetts_institute_of_technology.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_massachusetts_institute_of_technology.jpg\"},\"website\":\"http://web.mit.edu/\",\"twitter\":\"@mitnews\",\"facebook\":\"https://www.facebook.com/MITnews\",\"linkedin\":\"http://www.linkedin.com/company/1503?trk=tyah\"},{\"name\":\"Stanford University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/stanford_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_stanford_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_stanford_university.jpg\"},\"website\":\"http://www.stanford.edu/\",\"twitter\":\"@stanford\",\"facebook\":\"https://www.facebook.com/stanford\",\"linkedin\":\"http://www.linkedin.com/company/1792?trk=tyah\"},{\"name\":\"University of California--Berkeley\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/university_of_california--berkeley.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_university_of_california--berkeley.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_university_of_california--berkeley.jpg\"},\"website\":\"http://www.berkeley.edu/\",\"twitter\":\"@ucberkeley\",\"facebook\":\"https://www.facebook.com/UCBerkeley\",\"linkedin\":\"http://www.linkedin.com/company/2517?trk=tyah\"},{\"name\":\"Georgia Institute of Technology\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/georgia_institute_of_technology.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_georgia_institute_of_technology.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_georgia_institute_of_technology.jpg\"},\"website\":\"http://www.gatech.edu/\",\"twitter\":\"@georgiatech\",\"facebook\":\"https://www.facebook.com/georgiatech\",\"linkedin\":\"http://www.linkedin.com/company/3558\"},{\"name\":\"University of Illinois--Urbana-Champaign\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/university_of_illinois--urbana-champaign.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_university_of_illinois--urbana-champaign.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_university_of_illinois--urbana-champaign.jpg\"},\"website\":\"http://illinois.edu/\",\"twitter\":\"@illinois_alma\",\"facebook\":\"https://www.facebook.com/illinois.edu\",\"linkedin\":\"http://www.linkedin.com/company/2650?trk=tyah\"}]",
+        "onet_link": "http://www.onetonline.org/link/summary/49-2093.00",
+        "avg_salary": "$20,000-30,000",
+        "businesses": "[{\"name\":\"BGE\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/bge.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_bge.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_bge.jpg\"},\"website\":\"http://www.bge.com\",\"twitter\":\"@MyBGE\",\"facebook\":\"https://www.facebook.com/myBGE\",\"linkedin\":\"http://www.linkedin.com/company/5115?trk=null\"},{\"name\":\"Con Edison of New York\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/con_edison_of_new_york.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_con_edison_of_new_york.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_con_edison_of_new_york.jpg\"},\"website\":\"http://www.coned.com/\",\"twitter\":\"@conedison\",\"facebook\":\"https://www.facebook.com/ConEdisonNY?fref=ts\",\"linkedin\":\"http://www.linkedin.com/company/163188?trk=tyah\"},{\"name\":\"Sky Electric Company, LLC\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/sky_electric_company,_llc.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_sky_electric_company,_llc.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_sky_electric_company,_llc.jpg\"},\"website\":\"http://www.skyelectriccompanyllc.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/Sky-Electric-Company/165647730218414\",\"linkedin\":\"http://www.linkedin.com/company/2761475?trk=tyah\"},{\"name\":\"Manhattan Electricians\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/manhattan_electricians.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_manhattan_electricians.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_manhattan_electricians.jpg\"},\"website\":\"http://www.manhattan-electricians.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/WeinsteinElectric\",\"linkedin\":null},{\"name\":\"Southern California Edison\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/southern_california_edison.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_southern_california_edison.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_southern_california_edison.jpg\"},\"website\":\"http://www.sce.com/\",\"twitter\":\"@sce\",\"facebook\":\"https://www.facebook.com/sce\",\"linkedin\":\"http://www.linkedin.com/company/southern-california-edison\"}]",
+        "description": "Assemble or modify electrical or electronic equipment, such as computers, test equipment telemetering systems, electric motors, and batteries.",
+        "growth_rate": "0-9%"
+      },
+      {
+        "name": "Veterinary Technologist",
+        "image": {
+          "url": "https://core-production.s3.amazonaws.com/images/entity/12925/58005d345eb4eb42756a.jpg",
+          "_640x640": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12925/_640x640_58005d345eb4eb42756a.jpg"
+          },
+          "_506x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12925/_506x540_58005d345eb4eb42756a.jpg"
+          },
+          "_480x208": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12925/_480x208_58005d345eb4eb42756a.jpg"
+          },
+          "_320x320": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12925/_320x320_58005d345eb4eb42756a.jpg"
+          },
+          "_306x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12925/_306x540_58005d345eb4eb42756a.jpg"
+          },
+          "_300x300": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12925/_300x300_58005d345eb4eb42756a.jpg"
+          },
+          "_260x260": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12925/_260x260_58005d345eb4eb42756a.jpg"
+          },
+          "_253x270": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12925/_253x270_58005d345eb4eb42756a.jpg"
+          },
+          "_240x104": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12925/_240x104_58005d345eb4eb42756a.jpg"
+          },
+          "_166x166": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12925/_166x166_58005d345eb4eb42756a.jpg"
+          },
+          "_150x150": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12925/_150x150_58005d345eb4eb42756a.jpg"
+          },
+          "_120x120": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12925/_120x120_58005d345eb4eb42756a.jpg"
+          },
+          "_90x90": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12925/_90x90_58005d345eb4eb42756a.jpg"
+          },
+          "_83x83": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12925/_83x83_58005d345eb4eb42756a.jpg"
+          },
+          "_60x60": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12925/_60x60_58005d345eb4eb42756a.jpg"
+          },
+          "_45x45": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12925/_45x45_58005d345eb4eb42756a.jpg"
+          },
+          "_30x30": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12925/_30x30_58005d345eb4eb42756a.jpg"
+          }
+        },
+        "uuid": "96325810-3e73-0130-73dd-12313d00cdfe",
+        "latitude": null,
+        "longitude": null,
+        "updated_at": "2013-01-31T23:16:18Z",
+        "_links": {
+          "self": {
+            "href": "https://core.woofound.com/sliders/2/entities/12925"
+          }
+        },
+        "blend": "NA",
+        "green": "false",
+        "active": "true",
+        "bright": "true",
+        "min_edu": "College Degree",
+        "colleges": "[{\"name\":\"Cornell University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/cornell_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_cornell_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_cornell_university.jpg\"},\"website\":\"http://www.cornell.edu/\",\"twitter\":\"@cornell\",\"facebook\":\"https://www.facebook.com/Cornell\",\"linkedin\":\"http://www.linkedin.com/company/3523?trk=tyah\"},{\"name\":\"University of California, Davis\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/university_of_california,_davis.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_university_of_california,_davis.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_university_of_california,_davis.jpg\"},\"website\":\"http://www.ucdavis.edu/\",\"twitter\":\"@ucdavis\",\"facebook\":\"https://www.facebook.com/UCDavis\",\"linkedin\":\"http://www.linkedin.com/company/2842?trk=tyah\"},{\"name\":\"Colorado State University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/colorado_state_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_colorado_state_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_colorado_state_university.jpg\"},\"website\":\"http://www.colostate.edu/\",\"twitter\":\"@coloradostateu\",\"facebook\":\"https://www.facebook.com/coloradostateuniversity\",\"linkedin\":\"http://www.linkedin.com/groups?home=&gid=36343&trk=anet_ug_hm\"},{\"name\":\"North Carolina State University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/north_carolina_state_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_north_carolina_state_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_north_carolina_state_university.jpg\"},\"website\":\"http://www.ncsu.edu/\",\"twitter\":\"@ncstate\",\"facebook\":\"https://www.facebook.com/ncstate\",\"linkedin\":\"http://www.linkedin.com/company/4813?trk=tyah\"},{\"name\":\"Ohio State University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/ohio_state_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_ohio_state_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_ohio_state_university.jpg\"},\"website\":\"http://www.osu.edu/\",\"twitter\":\"@ohiostate\",\"facebook\":\"https://www.facebook.com/osu\",\"linkedin\":\"http://www.linkedin.com/company/3173?trk=tyah\"}]",
+        "onet_link": "http://www.onetonline.org/link/summary/29-2056.00",
+        "avg_salary": "$30,000-40,000",
+        "businesses": "[{\"name\":\"MSPCA Angell\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/mspca_angell.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_mspca_angell.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_mspca_angell.jpg\"},\"website\":\"http://www.mspca.org/\",\"twitter\":\"@mspcaangell\",\"facebook\":\"https://www.facebook.com/mspcaangell\",\"linkedin\":\"http://www.linkedin.com/company/49642?trk=tyah\"},{\"name\":\"Animal Medial Center\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/animal_medial_center.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_animal_medial_center.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_animal_medial_center.jpg\"},\"website\":\"http://www.amcny.org/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/theanimalmedicalcenter\",\"linkedin\":\"http://www.linkedin.com/company/animal-medical-center\"},{\"name\":\"Bergh Memorial Animal Hospital\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/bergh_memorial_animal_hospital.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_bergh_memorial_animal_hospital.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_bergh_memorial_animal_hospital.jpg\"},\"website\":\"http://www.aspca.org/aspca-nyc/berg-memorial-animal-hospital.aspx\",\"twitter\":\"@aspca\",\"facebook\":\"https://www.facebook.com/aspca\",\"linkedin\":\"http://www.linkedin.com/company/23499?trk=tyah\"},{\"name\":\"Stonehenge Veterinary Hospital\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/stonehenge_veterinary_hospital.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_stonehenge_veterinary_hospital.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_stonehenge_veterinary_hospital.jpg\"},\"website\":\"http://www.stonehengeveterinaryhospital.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/Stonehenge-Veterinary-Hospital/110968332301384?fref=ts\",\"linkedin\":null},{\"name\":\"Animal Care Clinic\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/animal_care_clinic.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_animal_care_clinic.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_animal_care_clinic.jpg\"},\"website\":\"http://www.animalcareclinicslo.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/animalcareclinic\",\"linkedin\":null}]",
+        "description": "Perform medical tests in a laboratory environment for use in the treatment and diagnosis of diseases in animals. Prepare vaccines and serums for prevention of diseases. Prepare tissue samples, take blood samples, and execute laboratory tests, such as urinalysis and blood counts. Clean and sterilize instruments and materials and maintain equipment and machines. May assist a veterinarian during surgery.",
+        "growth_rate": "Over 29%"
+      },
+      {
+        "name": "Vocational Educator",
+        "image": {
+          "url": "https://core-production.s3.amazonaws.com/images/entity/12926/d81ebeedef0d5345e91b.jpg",
+          "_640x640": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12926/_640x640_d81ebeedef0d5345e91b.jpg"
+          },
+          "_506x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12926/_506x540_d81ebeedef0d5345e91b.jpg"
+          },
+          "_480x208": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12926/_480x208_d81ebeedef0d5345e91b.jpg"
+          },
+          "_320x320": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12926/_320x320_d81ebeedef0d5345e91b.jpg"
+          },
+          "_306x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12926/_306x540_d81ebeedef0d5345e91b.jpg"
+          },
+          "_300x300": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12926/_300x300_d81ebeedef0d5345e91b.jpg"
+          },
+          "_260x260": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12926/_260x260_d81ebeedef0d5345e91b.jpg"
+          },
+          "_253x270": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12926/_253x270_d81ebeedef0d5345e91b.jpg"
+          },
+          "_240x104": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12926/_240x104_d81ebeedef0d5345e91b.jpg"
+          },
+          "_166x166": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12926/_166x166_d81ebeedef0d5345e91b.jpg"
+          },
+          "_150x150": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12926/_150x150_d81ebeedef0d5345e91b.jpg"
+          },
+          "_120x120": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12926/_120x120_d81ebeedef0d5345e91b.jpg"
+          },
+          "_90x90": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12926/_90x90_d81ebeedef0d5345e91b.jpg"
+          },
+          "_83x83": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12926/_83x83_d81ebeedef0d5345e91b.jpg"
+          },
+          "_60x60": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12926/_60x60_d81ebeedef0d5345e91b.jpg"
+          },
+          "_45x45": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12926/_45x45_d81ebeedef0d5345e91b.jpg"
+          },
+          "_30x30": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12926/_30x30_d81ebeedef0d5345e91b.jpg"
+          }
+        },
+        "uuid": "99205f40-3e73-0130-73dd-12313d00cdfe",
+        "latitude": null,
+        "longitude": null,
+        "updated_at": "2013-01-31T23:17:09Z",
+        "_links": {
+          "self": {
+            "href": "https://core.woofound.com/sliders/2/entities/12926"
+          }
+        },
+        "blend": "MT",
+        "green": "false",
+        "active": "true",
+        "bright": "false",
+        "min_edu": "College Degree",
+        "colleges": "[{\"name\":\"Pennsylvania State University--University Park\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/pennsylvania_state_university--university_park.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_pennsylvania_state_university--university_park.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_pennsylvania_state_university--university_park.jpg\"},\"website\":\"http://www.psu.edu/\",\"twitter\":\"@penn_state\",\"facebook\":\"https://www.facebook.com/pennstate\",\"linkedin\":\"http://www.linkedin.com/groups?home=&gid=40178\"},{\"name\":\"Ohio State University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/ohio_state_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_ohio_state_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_ohio_state_university.jpg\"},\"website\":\"http://www.osu.edu/\",\"twitter\":\"@ohiostate\",\"facebook\":\"https://www.facebook.com/osu\",\"linkedin\":\"http://www.linkedin.com/company/3173?trk=tyah\"},{\"name\":\"University of Georgia\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/university_of_georgia.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_university_of_georgia.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_university_of_georgia.jpg\"},\"website\":\"http://www.uga.edu/\",\"twitter\":\"@universityofga\",\"facebook\":\"https://www.facebook.com/uga.edu\",\"linkedin\":\"http://www.linkedin.com/company/166638?trk=tyah\"},{\"name\":\"University of Minnesota--Twin Cities\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/university_of_minnesota--twin_cities.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_university_of_minnesota--twin_cities.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_university_of_minnesota--twin_cities.jpg\"},\"website\":\"http://www1.umn.edu/\",\"twitter\":\"@umnews\",\"facebook\":\"https://www.facebook.com/UofMN?fref=ts\",\"linkedin\":\"http://www.linkedin.com/company/3181?trk=tyah\"},{\"name\":\"Virginia Tech\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/virginia_tech.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_virginia_tech.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_virginia_tech.jpg\"},\"website\":\"http://www.vt.edu/\",\"twitter\":\"@virginia_tech\",\"facebook\":\"https://www.facebook.com/virginiatech\",\"linkedin\":\"http://www.linkedin.com/company/166811?trk=tyah\"}]",
+        "onet_link": "http://www.onetonline.org/link/summary/25-1194.00",
+        "avg_salary": "$40,000-50,000",
+        "businesses": "[{\"name\":\"Ohio State University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/ohio_state_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_ohio_state_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_ohio_state_university.jpg\"},\"website\":\"http://www.osu.edu/\",\"twitter\":\"@ohiostate\",\"facebook\":\"https://www.facebook.com/osu\",\"linkedin\":\"http://www.linkedin.com/company/3173?trk=tyah\"},{\"name\":\"Pennsylvania State University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/pennsylvania_state_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_pennsylvania_state_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_pennsylvania_state_university.jpg\"},\"website\":\"http://www.psu.edu/\",\"twitter\":\"@penn_state\",\"facebook\":\"https://www.facebook.com/pennstate\",\"linkedin\":\"http://www.linkedin.com/groups?home=&gid=40178\"},{\"name\":\"University of Georgia\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/university_of_georgia.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_university_of_georgia.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_university_of_georgia.jpg\"},\"website\":\"http://www.uga.edu/\",\"twitter\":\"@universityofga\",\"facebook\":\"https://www.facebook.com/uga.edu\",\"linkedin\":\"http://www.linkedin.com/company/166638?trk=tyah\"},{\"name\":\"University of Minnesota\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/university_of_minnesota.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_university_of_minnesota.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_university_of_minnesota.jpg\"},\"website\":\"http://www1.umn.edu/\",\"twitter\":\"@umnews\",\"facebook\":\"https://www.facebook.com/UofMN?fref=ts\",\"linkedin\":\"http://www.linkedin.com/company/3181?trk=tyah\"},{\"name\":\"Virginia Tech\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/virginia_tech.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_virginia_tech.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_virginia_tech.jpg\"},\"website\":\"http://www.vt.edu/\",\"twitter\":\"@virginia_tech\",\"facebook\":\"https://www.facebook.com/virginiatech\",\"linkedin\":\"http://www.linkedin.com/company/166811?trk=tyah\"}]",
+        "description": "Teach or instruct vocational or occupational subjects at the postsecondary level (but at less than the baccalaureate) to students who have graduated or left high school. Includes correspondence school, industrial, and commercial instructors; and adult education teachers and instructors who prepare persons to operate industrial machinery and equipment and transportation and communications equipment. Teaching may take place in public or private schools whose primary business is education or in a school associated with an organization whose primary business is other than education.",
+        "growth_rate": null
+      },
+      {
+        "name": "Courier and Messenger",
+        "image": {
+          "url": "https://core-production.s3.amazonaws.com/images/entity/12927/b24c5e3f2b7b8eb36295.jpg",
+          "_640x640": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12927/_640x640_b24c5e3f2b7b8eb36295.jpg"
+          },
+          "_506x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12927/_506x540_b24c5e3f2b7b8eb36295.jpg"
+          },
+          "_480x208": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12927/_480x208_b24c5e3f2b7b8eb36295.jpg"
+          },
+          "_320x320": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12927/_320x320_b24c5e3f2b7b8eb36295.jpg"
+          },
+          "_306x540": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12927/_306x540_b24c5e3f2b7b8eb36295.jpg"
+          },
+          "_300x300": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12927/_300x300_b24c5e3f2b7b8eb36295.jpg"
+          },
+          "_260x260": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12927/_260x260_b24c5e3f2b7b8eb36295.jpg"
+          },
+          "_253x270": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12927/_253x270_b24c5e3f2b7b8eb36295.jpg"
+          },
+          "_240x104": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12927/_240x104_b24c5e3f2b7b8eb36295.jpg"
+          },
+          "_166x166": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12927/_166x166_b24c5e3f2b7b8eb36295.jpg"
+          },
+          "_150x150": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12927/_150x150_b24c5e3f2b7b8eb36295.jpg"
+          },
+          "_120x120": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12927/_120x120_b24c5e3f2b7b8eb36295.jpg"
+          },
+          "_90x90": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12927/_90x90_b24c5e3f2b7b8eb36295.jpg"
+          },
+          "_83x83": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12927/_83x83_b24c5e3f2b7b8eb36295.jpg"
+          },
+          "_60x60": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12927/_60x60_b24c5e3f2b7b8eb36295.jpg"
+          },
+          "_45x45": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12927/_45x45_b24c5e3f2b7b8eb36295.jpg"
+          },
+          "_30x30": {
+            "url": "https://core-production.s3.amazonaws.com/images/entity/12927/_30x30_b24c5e3f2b7b8eb36295.jpg"
+          }
+        },
+        "uuid": "9bd9fdb0-3e73-0130-73dd-12313d00cdfe",
+        "latitude": null,
+        "longitude": null,
+        "updated_at": "2013-01-31T17:49:13Z",
+        "_links": {
+          "self": {
+            "href": "https://core.woofound.com/sliders/2/entities/12927"
+          }
+        },
+        "blend": "TM",
+        "green": "false",
+        "active": "true",
+        "bright": "false",
+        "min_edu": "High School Diploma",
+        "colleges": "[{\"name\":\"Medical Courier Training Center\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/medical_courier_training_center.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_medical_courier_training_center.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_medical_courier_training_center.jpg\"},\"website\":\"http://medicalcouriertraining.ning.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/Medical-Courier-Training-Center/169065166443829\",\"linkedin\":\"http://www.linkedin.com/groups/Medical-Courier-Training-Center-3389920?gid=3389920&mostPopular=&trk=tyah\"},{\"name\":\"University of Phoenix\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/university_of_phoenix.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_university_of_phoenix.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_university_of_phoenix.jpg\"},\"website\":\"http://www.phoenix.edu/\",\"twitter\":\"@uopx\",\"facebook\":\"https://www.facebook.com/universityofphoenix\",\"linkedin\":\"http://www.linkedin.com/company/university-of-phoenix\"},{\"name\":\"Capella University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/capella_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_capella_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_capella_university.jpg\"},\"website\":\"http://www.capella.edu/\",\"twitter\":\"@capellau\",\"facebook\":\"https://www.facebook.com/CapellaUniversity\",\"linkedin\":\"http://www.linkedin.com/company/5609?trk=tyah\"},{\"name\":\"World Courier\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/world_courier.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_world_courier.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_world_courier.jpg\"},\"website\":\"http://www.worldcourier.com/\",\"twitter\":\"@worldcourierinc\",\"facebook\":\"https://www.facebook.com/pages/World-Courier-Inc/117336934954003\",\"linkedin\":\"http://www.linkedin.com/company/31541?trk=tyah\"},{\"name\":\"Ashford University\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/ashford_university.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_ashford_university.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_ashford_university.jpg\"},\"website\":\"http://www.ashford.edu/\",\"twitter\":\"@ashfordu\",\"facebook\":\"https://www.facebook.com/ashforduniversity\",\"linkedin\":\"http://www.linkedin.com/groups/Ashford-University-Alumni-Students-3743681?gid=3743681&mostPopular=&trk=tyah\"}]",
+        "onet_link": "http://www.onetonline.org/link/summary/43-5021.00",
+        "avg_salary": "$20,000-30,000",
+        "businesses": "[{\"name\":\"Expedited Courier Group\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/expedited_courier_group.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_expedited_courier_group.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_expedited_courier_group.jpg\"},\"website\":\"http://www.expeditedcouriergroup.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/Expedited-Courier-Group/195651083780820?fref=ts\",\"linkedin\":\"http://www.linkedin.com/company/1835851?trk=tyah\"},{\"name\":\"Courierboard\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/courierboard.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_courierboard.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_courierboard.jpg\"},\"website\":\"http://www.courierboard.com/\",\"twitter\":\"@courierboard\",\"facebook\":\"https://www.facebook.com/courierboard\",\"linkedin\":\"http://www.linkedin.com/company/347100?trk=tyah\"},{\"name\":\"Metro Express of Baltimore\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/metro_express_of_baltimore.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_metro_express_of_baltimore.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_metro_express_of_baltimore.jpg\"},\"website\":\"http://www.metroexpressbaltimore.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/Metro-Express-of-Baltimore-Inc-a-Courier-Service/133185893400518?fref=ts\",\"linkedin\":null},{\"name\":\"Parcel2Go\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/parcel2go.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_parcel2go.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_parcel2go.jpg\"},\"website\":\"http://www.parcel2go.com/\",\"twitter\":\"@parcel2go\",\"facebook\":\"https://www.facebook.com/parcel2go\",\"linkedin\":\"http://www.linkedin.com/company/451241?trk=tyah\"},{\"name\":\"Naparex\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/naparex.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_naparex.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_naparex.jpg\"},\"website\":\"http://www.naparex.com/\",\"twitter\":\"@naparex\",\"facebook\":\"https://www.facebook.com/NAPAREX?fref=ts\",\"linkedin\":\"http://www.linkedin.com/groups?home=&gid=2471813\"}]",
+        "description": "Pick up and deliver messages, documents, packages, and other items between offices or departments within an establishment or directly to other business concerns, traveling by foot, bicycle, motorcycle, automobile, or public conveyance.",
+        "growth_rate": "10-19%"
+      }
+        ]
+  },
+  "_links": {
+    "self": {
+      "href": "http://core.woofound.com/sliders/2/entities/page/1"
+    },
+    "next-page": {
+      "href": "http://core.woofound.com/sliders/2/entities/page/2"
+    }
+  }
+}

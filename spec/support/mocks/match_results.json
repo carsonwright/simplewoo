@@ -1,0 +1,96 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://core.woofound.com/sliders/2/results"
+    }
+  },
+  "_embedded": {
+    "entities": [],
+    "personalities": [
+      {
+        "id": 178650,
+        "percentage": 0.1,
+        "name": "Naturalist",
+        "description": "Naturalists are orderly, functional, efficient, constructive and solid.  They excel at working as one with the natural environment.  Your Naturalist needs to be a pro in any environment.",
+        "image": {
+          "88x88": "https://s3.amazonaws.com/woofound/images/static/default/_88x88_default.png",
+          "176x176": "https://s3.amazonaws.com/woofound/images/static/default/_176x176_default.png",
+          "275x275": "https://s3.amazonaws.com/woofound/images/static/default/_275x275_default.png",
+          "550x550": "https://s3.amazonaws.com/woofound/images/static/default/_550x550_default.png"
+        }
+      },
+      {
+        "id": 178651,
+        "percentage": 0.1,
+        "name": "Action-Taker",
+        "description": "Action-Takers use manual and physical skills, working with technology or machinery to complete tasks.  They are handy, practical, systematic, applied, and down-to-earth.  Your Action-Taker is a stud in the workplace and is a lock to get the job done.",
+        "image": {
+          "88x88": "https://s3.amazonaws.com/woofound/images/static/default/_88x88_default.png",
+          "176x176": "https://s3.amazonaws.com/woofound/images/static/default/_176x176_default.png",
+          "275x275": "https://s3.amazonaws.com/woofound/images/static/default/_275x275_default.png",
+          "550x550": "https://s3.amazonaws.com/woofound/images/static/default/_550x550_default.png"
+        }
+      },
+      {
+        "id": 178652,
+        "percentage": 0.1,
+        "name": "Planner",
+        "description": "Planners are the detail people.  Planners create systems to follow, and enjoy working with data, detail, words and numbers.  Your planner is the ultimate office professional.  This person is a sterling pro at having everything in perfect working order.",
+        "image": {
+          "88x88": "https://s3.amazonaws.com/woofound/images/static/default/_88x88_default.png",
+          "176x176": "https://s3.amazonaws.com/woofound/images/static/default/_176x176_default.png",
+          "275x275": "https://s3.amazonaws.com/woofound/images/static/default/_275x275_default.png",
+          "550x550": "https://s3.amazonaws.com/woofound/images/static/default/_550x550_default.png"
+        }
+      },
+      {
+        "id": 178653,
+        "percentage": 0.1,
+        "name": "Visionary",
+        "description": "Visionaries are pioneers.  They are often in positions of power in business and the public eye and excel at taking charge and gaining the confidence of others.  This is the person you trust to take control.  Who is the co-Captain of your ship?",
+        "image": {
+          "88x88": "https://s3.amazonaws.com/woofound/images/static/default/_88x88_default.png",
+          "176x176": "https://s3.amazonaws.com/woofound/images/static/default/_176x176_default.png",
+          "275x275": "https://s3.amazonaws.com/woofound/images/static/default/_275x275_default.png",
+          "550x550": "https://s3.amazonaws.com/woofound/images/static/default/_550x550_default.png"
+        }
+      },
+      {
+        "id": 178654,
+        "percentage": 0.1,
+        "name": "Mentor",
+        "description": "Mentors are people-oriented.  Mentors are patient and compassionate and work best in a group or on a team toward a common goal.  This person is the support hub of your team.",
+        "image": {
+          "88x88": "https://s3.amazonaws.com/woofound/images/static/default/_88x88_default.png",
+          "176x176": "https://s3.amazonaws.com/woofound/images/static/default/_176x176_default.png",
+          "275x275": "https://s3.amazonaws.com/woofound/images/static/default/_275x275_default.png",
+          "550x550": "https://s3.amazonaws.com/woofound/images/static/default/_550x550_default.png"
+        }
+      },
+      {
+        "id": 178655,
+        "percentage": 0.1,
+        "name": "Inventor",
+        "description": "Inventors are creative.  They take a contemporary, out of the box approach to work and life.  This person excels when they are lost in their work, completely engrossed in a project.",
+        "image": {
+          "88x88": "https://s3.amazonaws.com/woofound/images/static/default/_88x88_default.png",
+          "176x176": "https://s3.amazonaws.com/woofound/images/static/default/_176x176_default.png",
+          "275x275": "https://s3.amazonaws.com/woofound/images/static/default/_275x275_default.png",
+          "550x550": "https://s3.amazonaws.com/woofound/images/static/default/_550x550_default.png"
+        }
+      },
+      {
+        "id": 178656,
+        "percentage": 0.1,
+        "name": "Analyzer",
+        "description": "Analyzers are inquisitive.  They have a keen eye and an experimental nature.  Analyzers use these capacities to figure out problems and search for the facts, often in a lab environment. Your Analyzer is your best explorer and detective.",
+        "image": {
+          "88x88": "https://s3.amazonaws.com/woofound/images/static/default/_88x88_default.png",
+          "176x176": "https://s3.amazonaws.com/woofound/images/static/default/_176x176_default.png",
+          "275x275": "https://s3.amazonaws.com/woofound/images/static/default/_275x275_default.png",
+          "550x550": "https://s3.amazonaws.com/woofound/images/static/default/_550x550_default.png"
+        }
+      }
+          ]
+  }
+}

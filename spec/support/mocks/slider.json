@@ -1,0 +1,44 @@
+
+{
+  "name": "Compass",
+  "image": {
+    "url": "https://s3.amazonaws.com/woofound/images/static/default/default.png"
+  },
+  "remaining": 84,
+  "completed": 0,
+  "_links": {
+    "self": {
+      "href": "https://core.woofound.com/sliders/2"
+    },
+    "http://woofound.com/rels/slider-reset": {
+      "href": "https://core.woofound.com/sliders/2/reset"
+    }
+  },
+  "_embedded": {
+    "tags": [
+      {
+        "name": "Going Camping",
+        "image": {
+          "url": "https://core-production.s3.amazonaws.com/images/tag/1091/16fe91b4a70f9572f2f4.jpg",
+          "_640x640": {
+            "url": "https://core-production.s3.amazonaws.com/images/tag/1091/_640x640_16fe91b4a70f9572f2f4.jpg"
+          },
+          "_320x320": {
+            "url": "https://core-production.s3.amazonaws.com/images/tag/1091/_320x320_16fe91b4a70f9572f2f4.jpg"
+          },
+          "_640x816": {
+            "url": "https://core-production.s3.amazonaws.com/images/tag/1091/_640x816_16fe91b4a70f9572f2f4.jpg"
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://core.woofound.com/tags/1091"
+          },
+          "http://woofound.com/rels/tag-add": {
+            "href": "https://core.woofound.com/sliders/2/tags/1091"
+          }
+        }
+      }
+    ]
+  }
+}

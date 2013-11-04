@@ -1,0 +1,77 @@
+{
+  "name": "Bartender",
+  "image": {
+    "url": "https://core-production.s3.amazonaws.com/images/entity/12914/252a54492423eabe16c1.jpg",
+    "_640x640": {
+      "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_640x640_252a54492423eabe16c1.jpg"
+    },
+    "_506x540": {
+      "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_506x540_252a54492423eabe16c1.jpg"
+    },
+    "_480x208": {
+      "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_480x208_252a54492423eabe16c1.jpg"
+    },
+    "_320x320": {
+      "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_320x320_252a54492423eabe16c1.jpg"
+    },
+    "_306x540": {
+      "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_306x540_252a54492423eabe16c1.jpg"
+    },
+    "_300x300": {
+      "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_300x300_252a54492423eabe16c1.jpg"
+    },
+    "_260x260": {
+      "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_260x260_252a54492423eabe16c1.jpg"
+    },
+    "_253x270": {
+      "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_253x270_252a54492423eabe16c1.jpg"
+    },
+    "_240x104": {
+      "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_240x104_252a54492423eabe16c1.jpg"
+    },
+    "_166x166": {
+      "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_166x166_252a54492423eabe16c1.jpg"
+    },
+    "_150x150": {
+      "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_150x150_252a54492423eabe16c1.jpg"
+    },
+    "_120x120": {
+      "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_120x120_252a54492423eabe16c1.jpg"
+    },
+    "_90x90": {
+      "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_90x90_252a54492423eabe16c1.jpg"
+    },
+    "_83x83": {
+      "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_83x83_252a54492423eabe16c1.jpg"
+    },
+    "_60x60": {
+      "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_60x60_252a54492423eabe16c1.jpg"
+    },
+    "_45x45": {
+      "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_45x45_252a54492423eabe16c1.jpg"
+    },
+    "_30x30": {
+      "url": "https://core-production.s3.amazonaws.com/images/entity/12914/_30x30_252a54492423eabe16c1.jpg"
+    }
+  },
+  "uuid": "769aa210-3e73-0130-73dd-12313d00cdfe",
+  "latitude": null,
+  "longitude": null,
+  "updated_at": "2013-01-31T17:10:31Z",
+  "_links": {
+    "self": {
+      "href": "https://core.woofound.com/sliders/2/entities/12914"
+    }
+  },
+  "blend": "TMV",
+  "green": "false",
+  "active": "true",
+  "bright": "true",
+  "min_edu": "High School Diploma",
+  "colleges": "[{\"name\":\"New York Bartending School\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/new_york_bartending_school.jpg\",\"_70x70... Wine Institute\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/mixology_wine_institute.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_mixology_wine_institute.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_mixology_wine_institute.jpg\"},\"website\":\"http://mixologywine.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/MixologyWine?fref=ts\",\"linkedin\":null},{\"name\":\"Bartenders Professional Training Institute, Inc.\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/bartenders_professional_training_institute,_inc.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_bartenders_professional_training_institute,_inc.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_bartenders_professional_training_institute,_inc.jpg\"},\"website\":\"http://www.bartenderprotraining.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/bartendny\",\"linkedin\":null},{\"name\":\"Atlanta Bartending School\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/atlanta_bartending_school.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_atlanta_bartending_school.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_atlanta_bartending_school.jpg\"},\"website\":\"http://atlantabartendingschool.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/Atlanta-Bartending-School/286974817093?fref=ts\",\"linkedin\":null},{\"name\":\"University of Mixology\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/university_of_mixology.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_university_of_mixology.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_university_of_mixology.jpg\"},\"website\":\"http://universityofmixology.com/\",\"twitter\":null,\"facebook\":\"https://www.facebook.com/pages/University-of-Mixology/117994357388\",\"linkedin\":null}}]",
+  "onet_link": "http://www.onetonline.org/link/summary/35-3011.00",
+  "avg_salary": "$10,000-20,000",
+  "businesses": "[{\"name\":\"Bar Agricole\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/bar_agricole.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_bar_agricole.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_bar_agricole.jpg\"},\"website\":\"http://www.baragricole.com/\",\"twitter\":\"@baragricole\",\"facebook\":\"https://www.facebook.com/pages/Bar-Agricole/286956729303\",\"linkedin\":\"http://www.linkedin.com/company/1079854?trk=tyah\"},{\"name\":\"Cure\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/cure.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_cure.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_cure.jpg\"},\"website\":\"http://www.curenola.com/\",\"twitter\":\"@curenola\",\"facebook\":\"https://www.facebook.com/curenola\",\"linkedin\":null},{\"name\":\"Drink\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/drink.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_drink.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_drink.jpg\"},\"website\":\"http://www.drinkfortpoint.com/\",\"twitter\":\"@drinkboston\",\"facebook\":\"https://www.facebook.com/DrinkFortPoint\",\"linkedin\":null},{\"name\":\"Holeman & Finch Public House\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/holeman__finch_public_house.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_holeman__finch_public_house.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_holeman__finch_public_house.jpg\"},\"website\":\"http://www.holeman-finch.com/\",\"twitter\":\"@chefhopkins\",\"facebook\":\"https://www.facebook.com/Holeman.Finch\",\"linkedin\":null},{\"name\":\"Rattle N Hum\",\"image\":{\"original\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/rattle_n_hum.jpg\",\"_70x70\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_70x70_rattle_n_hum.jpg\",\"_50x50\":\"https://s3.amazonaws.com/core-staging/images/static/top_cb/_50x50_rattle_n_hum.jpg\"},\"website\":\"http://www.rattlenhumbarnyc.com/\",\"twitter\":\"@rattlenhumbarny\",\"facebook\":\"https://www.facebook.com/pages/Rattle-N-Hum/122918434430242\",\"linkedin\":\"http://www.linkedin.com/company/1132918?trk=tyah\"}]",
+  "description": "Mix and serve drinks to patrons, directly or through waitstaff.",
+  "growth_rate": "0-9%"
+}
