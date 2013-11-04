@@ -18,6 +18,8 @@ Or install it yourself as:
 
 ## Usage
 
+####[Documentation](http://rdoc.info/gems/simplewoo)
+
 ### Configuration
 
 	Simplewoo.configure do |client|
