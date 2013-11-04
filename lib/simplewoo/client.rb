@@ -24,5 +24,10 @@ module Simplewoo
 
     include Simplewoo::Client::Root
     include Simplewoo::Client::User
+    include Simplewoo::Client::Slider
+    include Simplewoo::Client::Match
+    include Simplewoo::Client::Personality
+    include Simplewoo::Client::Tag
+    include Simplewoo::Client::Entity
   end
 end
