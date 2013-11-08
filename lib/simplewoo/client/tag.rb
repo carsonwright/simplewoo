@@ -12,7 +12,7 @@ module Simplewoo
       # Simplewoo::Client.add_tag(1, 1, true)
       def add_tag(slider_id, tag_id, value, options = {})
         options.merge!(me: value)
-        post("/sliders/#{slider_id}/tags/#{tag_id}/add", options)
+        post("/sliders/#{slider_id}/tags/#{tag_id}", options)
       end
 
       # Returns a tag
