@@ -16,7 +16,7 @@ describe Simplewoo::Client do
     let(:response) { client.add_tag(1, 1, true) }
 
     it "adds a tag for a user" do
-      stub_woo(:post, "/sliders/1/tags/1/add?me=true", 204, ":some_token@", "empty")
+      stub_woo(:post, "/sliders/1/tags/1?me=true", 204, ":some_token@", "empty")
       response
       expect(client.last_response.status).to eq(204)
     end
