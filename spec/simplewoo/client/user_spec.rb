@@ -37,7 +37,7 @@ describe Simplewoo::Client do
       end
 
       it "sets the api_token" do
-        expect(client.api_token).to eq("acce$$token") 
+        expect(client.api_token).to eq("acce$$token")
       end
     end
   end
