@@ -39,18 +39,6 @@ describe Simplewoo::Client do
     end
   end
 
-  context "with trusted authentication" do
-    let(:client) { Simplewoo::Client.new(:trusted => true, :email => email) }
-
-    describe ".root" do
-      it "returns the HAL links to the api" do
-        stub_woo(:get, "/", "root")
-
-        expect(client.root).to respond_to(:_links)
-      end
-    end
-  end
-
   context "without authentication" do
     let(:client) { Simplewoo::Client.new }
 

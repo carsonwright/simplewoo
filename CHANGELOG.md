@@ -2,4 +2,4 @@
 
 * bug fix
   * Added add_tags feature (by @carsonwright)
-  * Trusted auth now works correctly (by @tomprats)
+  * Trusted auth now uses correct header (by @tomprats)

@@ -10,7 +10,7 @@ module Simplewoo
     end
 
     def trusted_authenticated?
-      !!(self.trusted == "true" && self.email)
+      !!(self.trusted && self.email)
     end
 
     def authenticated?
