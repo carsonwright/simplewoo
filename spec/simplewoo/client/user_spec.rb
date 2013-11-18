@@ -8,6 +8,7 @@ describe Simplewoo::Client do
       client.app_secret = "app_secret"
       client.api_server_host = "api.woofound.com"
       client.ssl = true
+      client.version = :v1
     end
   end
 
@@ -26,7 +27,6 @@ describe Simplewoo::Client do
         # Initializes the user for the client
         response
       end
-
 
       it "returns the users email" do
         expect(response).to respond_to(:email)
