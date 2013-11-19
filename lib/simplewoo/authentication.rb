@@ -9,8 +9,12 @@ module Simplewoo
       !!(self.api_token)
     end
 
+    def trusted_authenticated?
+      !!(self.trusted && self.email)
+    end
+
     def authenticated?
-      !!(basic_authenticated? || token_authenticated?)
+      !!(basic_authenticated? || token_authenticated? || trusted_authenticated?)
     end
 
     def api_token

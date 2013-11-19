@@ -11,6 +11,7 @@ module Simplewoo
       :email,
       :password,
       :api_token,
+      :version,
       :debug
     ]
 

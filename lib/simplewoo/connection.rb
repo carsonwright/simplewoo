@@ -16,6 +16,7 @@ module Simplewoo
         end
         faraday.use AppSecretMiddleware, app_secret: self.app_secret
         faraday.use TrustedAppMiddleware, trusted: self.trusted
+        faraday.use AppVersionMiddleware, version: self.version if self.version
         faraday.response :logger if self.debug
         faraday.use ErrorMiddleware
         faraday.response :mashify
@@ -39,6 +40,18 @@ module Simplewoo
         @app.call(env)
       end
     end
+    class AppVersionMiddleware < Faraday::Middleware
+      def initialize(app, options = {})
+        @app = app
+        @options = options
+      end
+
+      def call(env)
+        env[:request_headers]["Accept"] = "application/vnd.woofound." + @options[:version].to_s
+        @app.call(env)
+      end
+    end
+
     # Middleware for inserting the trusted header into requests
     class TrustedAppMiddleware < Faraday::Middleware
       def initialize(app, options = {})
@@ -47,7 +60,7 @@ module Simplewoo
       end
 
       def call(env)
-        env[:request_headers]["Woofound-Use-Trusted"] = @options[:trusted].to_s
+        env[:request_headers]["Woofound-Use-Trusted-Auth"] = @options[:trusted].to_s
         @app.call(env)
       end
     end

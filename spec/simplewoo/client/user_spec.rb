@@ -8,6 +8,7 @@ describe Simplewoo::Client do
       client.app_secret = "app_secret"
       client.api_server_host = "api.woofound.com"
       client.ssl = true
+      client.version = :v1
     end
   end
 
@@ -27,7 +28,6 @@ describe Simplewoo::Client do
         response
       end
 
-
       it "returns the users email" do
         expect(response).to respond_to(:email)
       end
@@ -37,7 +37,7 @@ describe Simplewoo::Client do
       end
 
       it "sets the api_token" do
-        expect(client.api_token).to eq("acce$$token") 
+        expect(client.api_token).to eq("acce$$token")
       end
     end
   end
@@ -48,6 +48,18 @@ describe Simplewoo::Client do
 
       before(:each) do
         stub_woo(:get, "/users/me", 200, ":some_token@", "me")
+      end
+
+      it "returns the authenticated user" do
+        expect(client.me).to respond_to(:email)
+      end
+    end
+
+    context "authenticated with trusted authentication" do
+      let(:client) { Simplewoo::Client.new(:trusted => true, :email => "jason@example.com") }
+
+      before(:each) do
+        stub_woo(:get, "/users/me", "me")
       end
 
       it "returns the authenticated user" do
