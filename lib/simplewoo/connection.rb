@@ -60,7 +60,7 @@ module Simplewoo
       end
 
       def call(env)
-        env[:request_headers]["Woofound-Use-Trusted"] = @options[:trusted].to_s
+        env[:request_headers]["Woofound-Use-Trusted-Auth"] = @options[:trusted].to_s
         @app.call(env)
       end
     end
